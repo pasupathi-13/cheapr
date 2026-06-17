@@ -1,0 +1,132 @@
+.disclaimer-page {
+  min-height: 100vh;
+  background: var(--bg);
+}
+
+.disclaimer-container {
+  padding: 40px 16px;
+  flex: 1;
+}
+
+.disclaimer-title {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--text-dark);
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.disclaimer-content {
+  max-width: 800px;
+  margin: 0 auto;
+  background: var(--white);
+  padding: 40px;
+  border-radius: var(--radius);
+  box-shadow: var(--card-shadow);
+  border: 1px solid var(--border);
+}
+
+.disclaimer-box {
+  background: #fff3e0;
+  border: 1px solid #ffb74d;
+  border-radius: var(--radius);
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 28px;
+}
+
+.disclaimer-icon {
+  font-size: 2rem;
+  flex-shrink: 0;
+}
+
+.disclaimer-box h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #e65100;
+  margin-bottom: 4px;
+}
+
+.disclaimer-box p {
+  font-size: 0.95rem;
+  color: #bf360c;
+  margin: 0;
+}
+
+.disclaimer-content section {
+  margin-bottom: 28px;
+}
+
+.disclaimer-content section:last-of-type {
+  margin-bottom: 0;
+}
+
+.disclaimer-content h2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  margin-bottom: 12px;
+}
+
+.disclaimer-content p {
+  font-size: 0.95rem;
+  color: var(--text-gray);
+  line-height: 1.7;
+  margin-bottom: 12px;
+}
+
+.disclaimer-content p:last-child {
+  margin-bottom: 0;
+}
+
+.disclaimer-content strong {
+  color: var(--text-dark);
+}
+
+/* Summary Box */
+.disclaimer-summary {
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 2px solid var(--border);
+}
+
+.disclaimer-summary h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  margin-bottom: 12px;
+}
+
+.disclaimer-summary ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.disclaimer-summary ul li {
+  font-size: 0.95rem;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+  color: var(--text-gray);
+}
+
+.disclaimer-summary ul li:last-child {
+  border-bottom: none;
+}
+
+@media (max-width: 640px) {
+  .disclaimer-content {
+    padding: 24px 16px;
+  }
+
+  .disclaimer-title {
+    font-size: 1.5rem;
+  }
+
+  .disclaimer-box {
+    flex-direction: column;
+    text-align: center;
+  }
+}

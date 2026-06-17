@@ -1,0 +1,74 @@
+:root {
+  --primary: #2874f0;
+  --primary-dark: #1a5dc8;
+  --primary-light: #e8f0fe;
+  --secondary: #ff6161;
+  --white: #ffffff;
+  --bg: #f1f3f6;
+  --text-dark: #212121;
+  --text-gray: #878787;
+  --border: #e0e0e0;
+  --card-shadow: 0 1px 6px rgba(0, 0, 0, 0.08);
+  --success: #388e3c;
+  --radius: 8px;
+  --transition: 0.2s ease;
+  --font: 'Inter', 'Segoe UI', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font);
+  background-color: var(--bg);
+  color: var(--text-dark);
+  min-height: 100vh;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button, input {
+  font: inherit;
+  border: none;
+  outline: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+/* scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--primary); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--primary-dark); }
+
+/* responsive text */
+html { font-size: 16px; }
+@media (max-width: 480px) { html { font-size: 14px; } }
