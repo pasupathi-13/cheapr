@@ -348,6 +348,7 @@
 }
 
 /* Mobile */
+/* Mobile */
 @media (max-width: 768px) {
   .hamburger {
     display: flex;
@@ -357,12 +358,17 @@
     display: none !important;
   }
 
+  .navbar {
+    padding: 14px 0;
+  }
+
   .nav-container {
-    gap: 8px;
+    gap: 10px;
+    padding: 0 12px;
   }
 
   .logo {
-    font-size: 1.3rem;
+    font-size: 1.6rem;
   }
 
   /* Search Bar - Full Width on Mobile */
@@ -373,59 +379,62 @@
   }
 
   .search-input {
-    font-size: 0.8rem;
-    padding: 6px 10px;
+    font-size: 0.95rem;
+    padding: 10px 12px;
   }
 
   .search-btn {
-    font-size: 0.8rem;
-    padding: 6px 12px;
+    font-size: 1rem;
+    padding: 10px 14px;
   }
 
-  /* Right icons - always visible */
+  /* Right icons */
   .nav-right {
-    gap: 2px;
+    gap: 4px;
   }
 
   .nav-icon {
-    font-size: 1.2rem;
-    padding: 6px 6px;
+    font-size: 1.4rem;
+    padding: 8px 8px;
   }
 
-  .icon-cart {
-    font-size: 1.3rem;
-  }
-  .cart-icon .icon-cart {
+  .icon-heart,
+  .icon-cart,
+  .icon-user {
     font-size: 1.4rem;
   }
 
+  .cart-icon .icon-cart {
+    font-size: 1.5rem;
+  }
+
   .badge {
-    font-size: 0.5rem;
-    min-width: 16px;
-    height: 16px;
+    font-size: 0.6rem;
+    min-width: 18px;
+    height: 18px;
     top: -2px;
     right: -2px;
-    padding: 1px 4px;
+    padding: 2px 5px;
   }
 
   /* Hamburger icon size */
   .hamburger-icon {
-    font-size: 1.6rem;
+    font-size: 1.9rem;
   }
 
   /* Mobile menu */
   .mobile-menu {
-    width: 280px;
-    max-width: 80vw;
+    width: 300px;
+    max-width: 85vw;
   }
 
   .mobile-link {
-    font-size: 0.95rem;
-    padding: 12px 10px;
+    font-size: 1.05rem;
+    padding: 15px 12px;
   }
 
   .mobile-user-name {
-    font-size: 0.9rem;
+    font-size: 1rem;
   }
 }
 
