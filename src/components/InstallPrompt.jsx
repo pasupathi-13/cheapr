@@ -8,57 +8,72 @@ const InstallPrompt = () => {
   const [isStandalone, setIsStandalone] = useState(false);
 
   useEffect(() => {
-    // Check if app is already installed (standalone mode)
-    if (window.matchMedia('(display-mode: standalone)').matches) {
-      setIsStandalone(true);
-      return;
-    }
+    // Safety check: only run in browser
+    if (typeof window === 'undefined') return;
 
-    // Check if iOS
-    const userAgent = window.navigator.userAgent.toLowerCase();
-    const isAppleDevice = /iphone|ipad|ipod/.test(userAgent);
-    if (isAppleDevice) {
-      setIsIOS(true);
-      // Show iOS prompt after delay
-      setTimeout(() => {
+    try {
+      // Check if already installed
+      if (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) {
+        setIsStandalone(true);
+        return;
+      }
+
+      // Check iOS
+      const userAgent = window.navigator.userAgent.toLowerCase();
+      const isAppleDevice = /iphone|ipad|ipod/.test(userAgent);
+      if (isAppleDevice) {
+        setIsIOS(true);
+        setTimeout(() => {
+          if (!localStorage.getItem('installDismissed')) {
+            setShowPrompt(true);
+          }
+        }, 2000);
+        return;
+      }
+
+      // Android: listen for beforeinstallprompt
+      const handleBeforeInstall = (e) => {
+        e.preventDefault();
+        setDeferredPrompt(e);
         if (!localStorage.getItem('installDismissed')) {
           setShowPrompt(true);
         }
-      }, 2000);
-      return;
-    }
+      };
 
-    // Android: listen for beforeinstallprompt event
-    window.addEventListener('beforeinstallprompt', (e) => {
-      e.preventDefault();
-      setDeferredPrompt(e);
-      if (!localStorage.getItem('installDismissed')) {
-        setShowPrompt(true);
-      }
-    });
+      window.addEventListener('beforeinstallprompt', handleBeforeInstall);
 
-    // Android: check if app was installed
-    window.addEventListener('appinstalled', () => {
+      // Android: app installed
+      const handleAppInstalled = () => {
+        setShowPrompt(false);
+        localStorage.setItem('installDismissed', 'true');
+      };
+
+      window.addEventListener('appinstalled', handleAppInstalled);
+
+      return () => {
+        window.removeEventListener('beforeinstallprompt', handleBeforeInstall);
+        window.removeEventListener('appinstalled', handleAppInstalled);
+      };
+    } catch (error) {
+      console.log('InstallPrompt error:', error);
+      // Gracefully fail: don't show prompt if something breaks
       setShowPrompt(false);
-      localStorage.setItem('installDismissed', 'true');
-    });
-
-    // Cleanup
-    return () => {
-      window.removeEventListener('beforeinstallprompt', () => {});
-      window.removeEventListener('appinstalled', () => {});
-    };
+    }
   }, []);
 
   const handleInstall = async () => {
-    if (!deferredPrompt) return;
-    deferredPrompt.prompt();
-    const { outcome } = await deferredPrompt.userChoice;
-    if (outcome === 'accepted') {
-      setShowPrompt(false);
-      localStorage.setItem('installDismissed', 'true');
+    try {
+      if (!deferredPrompt) return;
+      deferredPrompt.prompt();
+      const { outcome } = await deferredPrompt.userChoice;
+      if (outcome === 'accepted') {
+        setShowPrompt(false);
+        localStorage.setItem('installDismissed', 'true');
+      }
+      setDeferredPrompt(null);
+    } catch (error) {
+      console.log('Install error:', error);
     }
-    setDeferredPrompt(null);
   };
 
   const handleLater = () => {
@@ -83,11 +98,8 @@ const InstallPrompt = () => {
         {isIOS ? (
           <>
             <button className="ios-guide-btn" onClick={() => {
-              // Show iOS guide modal
-              setIsIOS(false);
-              setShowPrompt(false);
-              // Show a small guide
               alert('📱 On iOS:\n1. Tap the Share button (box with arrow)\n2. Scroll down and tap "Add to Home Screen"\n3. Tap "Add"');
+              setShowPrompt(false);
             }}>
               How to Install
             </button>
