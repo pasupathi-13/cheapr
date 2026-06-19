@@ -3,9 +3,6 @@ import { HelmetProvider } from 'react-helmet-async';
 import { lazy, Suspense } from 'react';
 import LoadingSpinner from './components/LoadingSpinner';
 
-// ✅ Import InstallPrompt
-import InstallPrompt from './components/InstallPrompt';
-
 const SplashScreen = lazy(() => import('./pages/SplashScreen'));
 const Home = lazy(() => import('./pages/Home'));
 const SearchResults = lazy(() => import('./pages/SearchResults'));
@@ -41,9 +38,6 @@ function App() {
             <Route path="/404" element={<NotFound />} />
             <Route path="*" element={<Navigate to="/404" replace />} />
           </Routes>
-
-          {/* ✅ InstallPrompt - visible on all pages */}
-          <InstallPrompt />
         </Suspense>
       </BrowserRouter>
     </HelmetProvider>
