@@ -661,3 +661,40 @@
     display: none !important;
   }
 }
+/* Download App Link */
+.mobile-download-link {
+  background: linear-gradient(135deg, #e8f0fe, #dbeafe);
+  border: 1px solid var(--primary);
+  border-radius: var(--radius);
+  margin-top: 8px;
+  font-weight: 700 !important;
+  color: var(--primary) !important;
+}
+
+.mobile-download-link:hover {
+  background: var(--primary) !important;
+  color: white !important;
+}
+
+.mobile-download-link .mobile-link-icon {
+  color: var(--primary);
+}
+
+.mobile-download-link:hover .mobile-link-icon {
+  color: white;
+}
+
+.mobile-download-badge {
+  margin-left: auto;
+  background: var(--primary);
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
+.mobile-download-link:hover .mobile-download-badge {
+  background: white;
+  color: var(--primary);
+}

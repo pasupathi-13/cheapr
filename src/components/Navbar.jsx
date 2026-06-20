@@ -5,6 +5,7 @@ import { FaShoppingCart, FaHeart, FaUser, FaHome, FaGlobe, FaInfoCircle, FaEnvel
 import { HiMenu, HiX } from 'react-icons/hi';
 import translations from '../translations';
 import './Navbar.css';
+import { MdDownload } from 'react-icons/md';
 
 const Navbar = ({ showSearch = true }) => {
   const [query, setQuery] = useState('');
@@ -207,10 +208,17 @@ const Navbar = ({ showSearch = true }) => {
             {t.wishlist || 'Wishlist'}
             {wishlistCount > 0 && <span className="mobile-badge">{wishlistCount}</span>}
           </Link>
-          <Link to="/cart" className="mobile-link" onClick={closeMenu}>
+           <Link to="/cart" className="mobile-link" onClick={closeMenu}>
             <FaShoppingCart className="mobile-link-icon" />
             {t.cart || 'Cart'}
             {cartCount > 0 && <span className="mobile-badge">{cartCount}</span>}
+          </Link>
+
+          {/* Download App */}
+          <Link to="/download" className="mobile-link mobile-download-link" onClick={closeMenu}>
+            <span className="mobile-link-icon">📲</span>
+            {t.downloadApp || 'Download App'}
+            <span className="mobile-download-badge">FREE</span>
           </Link>
 
           <button className="mobile-close-btn" onClick={closeMenu}>
