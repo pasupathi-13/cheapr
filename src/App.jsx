@@ -37,9 +37,9 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/privacy" element={<PrivacyPolicy />} /> {/* ✅ MUST EXIST */}
             <Route path="/disclaimer" element={<Disclaimer />} />
+            <Route path="/download" element={<Download />} />
             <Route path="/404" element={<NotFound />} />
             <Route path="*" element={<Navigate to="/404" replace />} />
-            <Route path="/download" element={<Download />} />
           </Routes>
         </Suspense>
       </BrowserRouter>
