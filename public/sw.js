@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cheapr-v1';
+const CACHE_NAME = 'cheapr-v2';
 const urlsToCache = [
   '/',
   '/home',
