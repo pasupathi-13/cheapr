@@ -3,11 +3,11 @@ FROM ghcr.io/puppeteer/puppeteer:21.5.0
 # Set working directory
 WORKDIR /usr/src/app
 
-# Copy package files
-COPY package*.json ./
+# Copy package file
+COPY package.json ./
 
 # Install dependencies
-RUN npm ci
+RUN npm install
 
 # Copy application source code
 COPY . .
