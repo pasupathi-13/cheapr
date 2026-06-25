@@ -11,10 +11,10 @@ const TrendingCard = ({ product }) => {
   return (
     <div
       className="trending-card"
-      onClick={() => navigate(`/compare/${product.id}`)}
+      onClick={() => navigate(`/compare/${product.id}`, { state: { product } })}
       role="button"
       tabIndex={0}
-      onKeyDown={(e) => e.key === 'Enter' && navigate(`/compare/${product.id}`)}
+      onKeyDown={(e) => e.key === 'Enter' && navigate(`/compare/${product.id}`, { state: { product } })}
     >
       <img src={product.image} alt={product.name} className="trending-image" />
       <div className="trending-info">

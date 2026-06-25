@@ -16,15 +16,20 @@
     <!-- Favicon -->
     <link rel="icon" href="/icons/icon-192.png" type="image/png" />
 
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+
     <!-- SEO -->
-    <title>Cheapr - Compare Amazon & Flipkart Prices</title>
-    <meta name="description" content="Compare prices between Amazon and Flipkart. Find the best deals on mobiles, laptops, and more." />
-    <meta name="keywords" content="price comparison India, Amazon vs Flipkart, best deals India, cheap mobiles India" />
+    <title>Cheapr - Live Price Comparison Engine (Amazon & Flipkart)</title>
+    <meta name="description" content="Save money instantly. Search and compare prices on electronics, mobiles, laptops, and fashion across Amazon and Flipkart in real-time." />
+    <meta name="keywords" content="price comparison India, Amazon vs Flipkart, best deals India, cheap mobiles India, compare price online, cheapr deals" />
     <meta name="author" content="Cheapr" />
 
     <!-- Open Graph (for WhatsApp/Facebook preview) -->
     <meta property="og:title" content="Cheapr - Compare Amazon & Flipkart Prices" />
-    <meta property="og:description" content="Compare prices instantly. Find best deals across Amazon & Flipkart." />
+    <meta property="og:description" content="Save money by comparing live prices between Amazon India and Flipkart." />
     <meta property="og:image" content="/icons/icon-512.png" />
     <meta property="og:url" content="https://cheaprr.vercel.app" />
     <meta property="og:type" content="website" />
@@ -32,8 +37,23 @@
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Cheapr - Compare Amazon & Flipkart Prices" />
-    <meta name="twitter:description" content="Compare prices instantly. Find best deals across Amazon & Flipkart." />
+    <meta name="twitter:description" content="Save money by comparing live prices between Amazon India and Flipkart." />
     <meta name="twitter:image" content="/icons/icon-512.png" />
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Cheapr",
+      "url": "https://cheaprr.vercel.app",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://cheaprr.vercel.app/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
   </head>
   <body>
     <div id="root"></div>

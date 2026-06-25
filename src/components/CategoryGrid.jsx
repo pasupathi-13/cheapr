@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import { categories } from '../data/mockData';
+import { categories } from '../data/configData';
 import './CategoryGrid.css';
 
 const CategoryGrid = () => {
@@ -17,12 +17,12 @@ const CategoryGrid = () => {
           <div
             key={cat.id}
             className="category-card"
-            onClick={() => navigate(`/search?q=${cat.name}`)}
+            onClick={() => navigate(`/search?q=${encodeURIComponent(cat.searchQuery)}`)}
             role="button"
             tabIndex={0}
-            onKeyDown={(e) => e.key === 'Enter' && navigate(`/search?q=${cat.name}`)}
+            onKeyDown={(e) => e.key === 'Enter' && navigate(`/search?q=${encodeURIComponent(cat.searchQuery)}`)}
           >
-            <div className="category-icon">{cat.icon}</div>
+            <img src={cat.image} alt={cat.name} className="category-img" />
             <div className="category-name">{cat.name}</div>
           </div>
         ))}

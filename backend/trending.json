@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 15 (Black, 128 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61135j8fPJL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 69900,
+      "originalPrice": 79900,
+      "rating": 4.6,
+      "reviews": 379,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTE1MjE5MDU0MTcxMzMzOjE3ODIzNzg4ODg6c3BfYXRmOjMwMDMzNDI1MjYyMjgzMjo6MDo6&url=%2FiPhone-16-128-GB-Control%2Fdp%2FB0DGJHBX5Y%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZWTxYCeLadYNw6_9IctBchsAUEw-59phPTKEEgQV4RxRGRp2QzLYAG4IIC3el5k8mIs_7rxu5Rl87GyO-baf7tlnzd9RhodYWLVTU76datrJRYsFXpYuLJJ7dHOJZ9MfA3Ibkvm7hkEJ1cgiyu2E40SzGa73HGd1WXVwrR5Fd43hUiBJvQ8a4E6N-lTOG7haboFnDfS6FM1QiCr-rHBBMDzb7LjDYEtQAIDnwQmuJfY.f-wvia-v8gkJLAfGW-VEx0UwTLWfYY2WKyAIoKPOyWo%26dib_tag%3Dse%26keywords%3Diphone%2B15%26qid%3D1782378888%26sr%3D8-1-spons%26aref%3D2LMvoNnwEz%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=2LMvoNnwEz&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 59400,
+      "originalPrice": 59900,
+      "rating": 4.6,
+      "reviews": 246306,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-iphone-15-black-128-gb/p/itm6ac6485515ae4?pid=MOBGTAGPTB3VS24W&lid=LSTMOBGTAGPTB3VS24WKFODHL"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Apple iPhone 15 Plus (Black, 128 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61FMZ9rSZUL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 59900,
+      "originalPrice": 59900,
+      "rating": 4.5,
+      "reviews": 131,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTE1MjE5MDU0MTcxMzMzOjE3ODIzNzg4ODg6c3BfYXRmOjMwMDQ4ODExNzY2NTUzMjo6MDo6&url=%2FiPhone-16e-128-Intelligence-Supersized%2Fdp%2FB0DXQH1DBS%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZWTxYCeLadYNw6_9IctBchsAUEw-59phPTKEEgQV4RxRGRp2QzLYAG4IIC3el5k8mIs_7rxu5Rl87GyO-baf7tlnzd9RhodYWLVTU76datrJRYsFXpYuLJJ7dHOJZ9MfA3Ibkvm7hkEJ1cgiyu2E40SzGa73HGd1WXVwrR5Fd43hUiBJvQ8a4E6N-lTOG7haboFnDfS6FM1QiCr-rHBBMDzb7LjDYEtQAIDnwQmuJfY.f-wvia-v8gkJLAfGW-VEx0UwTLWfYY2WKyAIoKPOyWo%26dib_tag%3Dse%26keywords%3Diphone%2B15%26qid%3D1782378888%26sr%3D8-2-spons%26aref%3DcemexVnpkH%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=cemexVnpkH&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 69900,
+      "originalPrice": 69900,
+      "rating": 4.6,
+      "reviews": 45306,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-iphone-15-plus-black-128-gb/p/itme3a53984760fb?pid=MOBGTAGPNRQA7CS3&lid=LSTMOBGTAGPNRQA7CS3YEKCQO"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Apple iPhone 15 Pro (White Titanium, 128 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61d88xzrklL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 69900,
+      "originalPrice": 79900,
+      "rating": 4.6,
+      "reviews": 114,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/iPhone-16-128-GB-Control/dp/B0DGHZWBYB/ref=sr_1_4?dib=eyJ2IjoiMSJ9.ZWTxYCeLadYNw6_9IctBchsAUEw-59phPTKEEgQV4RxRGRp2QzLYAG4IIC3el5k8mIs_7rxu5Rl87GyO-baf7tlnzd9RhodYWLVTU76datrJRYsFXpYuLJJ7dHOJZ9MfA3Ibkvm7hkEJ1cgiyu2E40SzGa73HGd1WXVwrR5Fd43hUiBJvQ8a4E6N-lTOG7haboFnDfS6FM1QiCr-rHBBMDzb7LjDYEtQAIDnwQmuJfY.f-wvia-v8gkJLAfGW-VEx0UwTLWfYY2WKyAIoKPOyWo&dib_tag=se&keywords=iphone+15&qid=1782378888&sr=8-4"
+    },
+    "flipkart": {
+      "price": 134900,
+      "originalPrice": 134900,
+      "rating": 4.7,
+      "reviews": 3005,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-iphone-15-pro-white-titanium-128-gb/p/itm786eaa7ec159e?pid=MOBGTAGPFGSCNHJF&lid=LSTMOBGTAGPFGSCNHJFWE6FUK"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Apple iPhone 15 Pro (Natural Titanium, 512 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71JGCn1z1TL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 154900,
+      "originalPrice": 154900,
+      "rating": 4.6,
+      "reviews": 275,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/iPhone-Pro-512-Promotion-Breakthrough/dp/B0FQFQF6D1/ref=sr_1_5?dib=eyJ2IjoiMSJ9.ZWTxYCeLadYNw6_9IctBchsAUEw-59phPTKEEgQV4RxRGRp2QzLYAG4IIC3el5k8mIs_7rxu5Rl87GyO-baf7tlnzd9RhodYWLVTU76datrJRYsFXpYuLJJ7dHOJZ9MfA3Ibkvm7hkEJ1cgiyu2E40SzGa73HGd1WXVwrR5Fd43hUiBJvQ8a4E6N-lTOG7haboFnDfS6FM1QiCr-rHBBMDzb7LjDYEtQAIDnwQmuJfY.f-wvia-v8gkJLAfGW-VEx0UwTLWfYY2WKyAIoKPOyWo&dib_tag=se&keywords=iphone+15&qid=1782378888&sr=8-5"
+    },
+    "flipkart": {
+      "price": 164900,
+      "originalPrice": 164900,
+      "rating": 4.7,
+      "reviews": 3005,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-iphone-15-pro-natural-titanium-512-gb/p/itm699ded1c1570d?pid=MOBGTAGPCFDXKFHW&lid=LSTMOBGTAGPCFDXKFHWPOCA9M"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Apple iPhone 15 Plus (Green, 256 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61eYPkT2zZL._AC_UL320_.jpg",
+    "amazon": {
+      "price": 69900,
+      "originalPrice": 79900,
+      "rating": 4.6,
+      "reviews": 290,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in#"
+    },
+    "flipkart": {
+      "price": 79900,
+      "originalPrice": 79900,
+      "rating": 4.6,
+      "reviews": 45306,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-iphone-15-plus-green-256-gb/p/itm9784729def342?pid=MOBGTAGPRSYPVZXR&lid=LSTMOBGTAGPRSYPVZXRROQ2QF"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Apple iPhone 15 (Blue, 128 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61eYPkT2zZL._AC_UL320_.jpg",
+    "amazon": {
+      "price": 69900,
+      "originalPrice": 79900,
+      "rating": 4.6,
+      "reviews": 159,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyNjczNzM1NzQ1NjUzNDY3OjE3ODIzNzg4ODg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDMzNDI1NjgzMzYzMjo6MDo6&url=%2FiPhone-16-128-GB-Control%2Fdp%2FB0DGJH8RYG%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.f7d72a1e-5698-491d-8e4e-cca77b240640%253Aamzn1.sym.f7d72a1e-5698-491d-8e4e-cca77b240640%26cv_ct_cx%3Diphone%2B15%26keywords%3Diphone%2B15%26pd_rd_i%3DB0DGJH8RYG%26pd_rd_r%3Dd0d44b53-a891-4e6e-ad0b-5ce0af4ff86c%26pd_rd_w%3D9QICb%26pd_rd_wg%3DwBLjO%26pf_rd_p%3Df7d72a1e-5698-491d-8e4e-cca77b240640%26pf_rd_r%3DJV5VX4GYMMJZ5XSZ7Q8Y%26qid%3D1782378888%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26aref%3Dk6BoqqlGUN%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=k6BoqqlGUN&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 59400,
+      "originalPrice": 59900,
+      "rating": 4.6,
+      "reviews": 246306,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-iphone-15-blue-128-gb/p/itmbf14ef54f645d?pid=MOBGTAGPAQNVFZZY&lid=LSTMOBGTAGPAQNVFZZYQRLPCQ"
+    }
+  },
+  {
+    "id": 7,
+    "name": "OnePlus Nord CE4 lite 5G (MEGA BLUE, 128 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61T18EfkX0L._AC_UY218_.jpg",
+    "amazon": {
+      "price": 25999,
+      "originalPrice": 31999,
+      "rating": 4.3,
+      "reviews": 177,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4NzA5NjQyODk5MzUwMTMwOjE3ODIzNzg4OTc6c3BfYXRmOjMwMTA4NjU0NjgxMDczMjo6MDo6&url=%2FOnePlus-Segments-Dimensity-Processor-Recording%2Fdp%2FB0GVYDLJJQ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.Q1YFYFgeo30m3xg-e3-q1sf0uBYjekiv0B4eCKdcSi83XvZnOlwSdZHx5LBkN1GlWomxHOF5EmKUMvlHI3StwGI04er2-_UD4sEdMaILOMG00a1ZD5rO7uw7a1cAot06IeQ0MoiB39heG11dU14vYA58MXlS6dyxI_bYmp7ejRKNUuwmvXR7Yvi5d3nbMUAkiEa-xORRNiHC4c8CXI15G-bsNkbLoJ9xBNwSlnQz_Vw.YVBkkygomCitHdJqAM1IVqp7CUaZfY9aPl09idZA9nU%26dib_tag%3Dse%26keywords%3Doneplus%2Bphone%26qid%3D1782378897%26sr%3D8-1-spons%26aref%3DAFYP7FCXns%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=AFYP7FCXns&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 16262,
+      "originalPrice": 20999,
+      "rating": 4.4,
+      "reviews": 36494,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/oneplus-nord-ce4-lite-5g-mega-blue-128-gb/p/itm8fd5fdf300955?pid=MOBH25Z9CCTDDN3J&lid=LSTMOBH25Z9CCTDDN3JLH4XDN"
+    }
+  },
+  {
+    "id": 8,
+    "name": "OnePlus Nord CE5 5G (Black Infinity, 128 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61Di24QT6GL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 33999,
+      "originalPrice": 40999,
+      "rating": 4.2,
+      "reviews": 291,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/OnePlus-Snapdragon-Segments-Fastest-Response/dp/B0GWLHVJRH/ref=sr_1_3?dib=eyJ2IjoiMSJ9.Q1YFYFgeo30m3xg-e3-q1sf0uBYjekiv0B4eCKdcSi83XvZnOlwSdZHx5LBkN1GlWomxHOF5EmKUMvlHI3StwGI04er2-_UD4sEdMaILOMG00a1ZD5rO7uw7a1cAot06IeQ0MoiB39heG11dU14vYA58MXlS6dyxI_bYmp7ejRKNUuwmvXR7Yvi5d3nbMUAkiEa-xORRNiHC4c8CXI15G-bsNkbLoJ9xBNwSlnQz_Vw.YVBkkygomCitHdJqAM1IVqp7CUaZfY9aPl09idZA9nU&dib_tag=se&keywords=oneplus+phone&qid=1782378897&sr=8-3"
+    },
+    "flipkart": {
+      "price": 22500,
+      "originalPrice": 24999,
+      "rating": 4.5,
+      "reviews": 12147,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/oneplus-nord-ce5-5g-black-infinity-128-gb/p/itm9259708fe4e3c?pid=MOBHEYWZAGYMPFRP&lid=LSTMOBHEYWZAGYMPFRPQLUEJM"
+    }
+  },
+  {
+    "id": 9,
+    "name": "OnePlus Nord CE5 5G (Black Infinity, 256 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61Di24QT6GL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 36999,
+      "originalPrice": 43999,
+      "rating": 4.2,
+      "reviews": 190,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/OnePlus-Snapdragon-Segments-Fastest-Response/dp/B0GWLJL55D/ref=sr_1_5?dib=eyJ2IjoiMSJ9.Q1YFYFgeo30m3xg-e3-q1sf0uBYjekiv0B4eCKdcSi83XvZnOlwSdZHx5LBkN1GlWomxHOF5EmKUMvlHI3StwGI04er2-_UD4sEdMaILOMG00a1ZD5rO7uw7a1cAot06IeQ0MoiB39heG11dU14vYA58MXlS6dyxI_bYmp7ejRKNUuwmvXR7Yvi5d3nbMUAkiEa-xORRNiHC4c8CXI15G-bsNkbLoJ9xBNwSlnQz_Vw.YVBkkygomCitHdJqAM1IVqp7CUaZfY9aPl09idZA9nU&dib_tag=se&keywords=oneplus+phone&qid=1782378897&sr=8-5"
+    },
+    "flipkart": {
+      "price": 23266,
+      "originalPrice": 26999,
+      "rating": 4.5,
+      "reviews": 12147,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/oneplus-nord-ce5-5g-black-infinity-256-gb/p/itm9259708fe4e3c?pid=MOBHEYWZGJFEJYUY&lid=LSTMOBHEYWZGJFEJYUYOSYF2R"
+    }
+  },
+  {
+    "id": 10,
+    "name": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61bbly9wcKL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 27999,
+      "originalPrice": 33999,
+      "rating": 4.3,
+      "reviews": 350,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/OnePlus-Segments-Dimensity-Processor-Recording/dp/B0GVYGLNH7/ref=sr_1_6?dib=eyJ2IjoiMSJ9.Q1YFYFgeo30m3xg-e3-q1sf0uBYjekiv0B4eCKdcSi83XvZnOlwSdZHx5LBkN1GlWomxHOF5EmKUMvlHI3StwGI04er2-_UD4sEdMaILOMG00a1ZD5rO7uw7a1cAot06IeQ0MoiB39heG11dU14vYA58MXlS6dyxI_bYmp7ejRKNUuwmvXR7Yvi5d3nbMUAkiEa-xORRNiHC4c8CXI15G-bsNkbLoJ9xBNwSlnQz_Vw.YVBkkygomCitHdJqAM1IVqp7CUaZfY9aPl09idZA9nU&dib_tag=se&keywords=oneplus+phone&qid=1782378897&sr=8-6"
+    },
+    "flipkart": {
+      "price": 14965,
+      "originalPrice": 19999,
+      "rating": 4.4,
+      "reviews": 168538,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/oneplus-nord-ce-3-lite-5g-pastel-lime-128-gb/p/itm2cd5a4e659035?pid=MOBGZJ3WM5SGTGVZ&lid=LSTMOBGZJ3WM5SGTGVZL0IBDB"
+    }
+  },
+  {
+    "id": 11,
+    "name": "OnePlus Nord CE4 (Celadon Marble, 256 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61F1NWYtCKL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 42999,
+      "originalPrice": 52999,
+      "rating": 4.3,
+      "reviews": 162,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/OnePlus-Snapdragon-Segments-Complete-Personalized/dp/B0GRBBPBGQ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.Q1YFYFgeo30m3xg-e3-q1sf0uBYjekiv0B4eCKdcSi83XvZnOlwSdZHx5LBkN1GlWomxHOF5EmKUMvlHI3StwGI04er2-_UD4sEdMaILOMG00a1ZD5rO7uw7a1cAot06IeQ0MoiB39heG11dU14vYA58MXlS6dyxI_bYmp7ejRKNUuwmvXR7Yvi5d3nbMUAkiEa-xORRNiHC4c8CXI15G-bsNkbLoJ9xBNwSlnQz_Vw.YVBkkygomCitHdJqAM1IVqp7CUaZfY9aPl09idZA9nU&dib_tag=se&keywords=oneplus+phone&qid=1782378897&sr=8-8"
+    },
+    "flipkart": {
+      "price": 23154,
+      "originalPrice": 26999,
+      "rating": 4.4,
+      "reviews": 28249,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/oneplus-nord-ce4-celadon-marble-256-gb/p/itm5a09089114afb?pid=MOBGZZGY8FRH5Y7R&lid=LSTMOBGZZGY8FRH5Y7RS1THKA"
+    }
+  },
+  {
+    "id": 12,
+    "name": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/617MPEZB5mL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 28990,
+      "originalPrice": 28990,
+      "rating": 4.3,
+      "reviews": 313,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/OnePlus-Nord-Shadow-128GB-Storage/dp/B0B3CQBRB4/ref=sr_1_10?dib=eyJ2IjoiMSJ9.Q1YFYFgeo30m3xg-e3-q1sf0uBYjekiv0B4eCKdcSi83XvZnOlwSdZHx5LBkN1GlWomxHOF5EmKUMvlHI3StwGI04er2-_UD4sEdMaILOMG00a1ZD5rO7uw7a1cAot06IeQ0MoiB39heG11dU14vYA58MXlS6dyxI_bYmp7ejRKNUuwmvXR7Yvi5d3nbMUAkiEa-xORRNiHC4c8CXI15G-bsNkbLoJ9xBNwSlnQz_Vw.YVBkkygomCitHdJqAM1IVqp7CUaZfY9aPl09idZA9nU&dib_tag=se&keywords=oneplus+phone&qid=1782378897&sr=8-10"
+    },
+    "flipkart": {
+      "price": 15699,
+      "originalPrice": 19999,
+      "rating": 4.4,
+      "reviews": 168538,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/oneplus-nord-ce-3-lite-5g-chromatic-gray-128-gb/p/itm2cd5a4e659035?pid=MOBGZJ42KHUZZKMN&lid=LSTMOBGZJ42KHUZZKMNKFGHDQ"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Apple MacBook Air Intel Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71upqrupfYL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 131990,
+      "originalPrice": 139900,
+      "rating": 4.8,
+      "reviews": 221,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozOTE1MDU4NTA0OTUxNjAwOjE3ODIzNzg5MDA6c3BfYXRmOjMwMDk3NjY1MjMxOTkzMjo6MDo6&url=%2FApple-2026-MacBook-Laptop-chip%2Fdp%2FB0GR177QCS%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.2GeNO-SKFY35P884NewOfelJjzAnxpwXu335oazD8yvhKFTtclc7I6AJA1CSzzCOf_0niGSeQxvbNuI03NQdLBF9P2ce2wGsRjVfesm0ZBQtJwSBShpnm_-0HcARU2MQwEJ3KJBvalkGqBXpLjh-L45LxpDm3UmjiOcybGYlTL9YgSiTjHYeAEicNxQNRkl-B5q4M0hI-DkWfGWJ81JmqdIX8uQmUjLC9LwzKA0B6-M.-im8AXMciIIqB7AlKboh21OLf8BAvckIOWqwNfX0Q_U%26dib_tag%3Dse%26keywords%3Dmacbook%2Bair%26qid%3D1782378900%26sr%3D8-1-spons%26aref%3DoS5rUnfw6D%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=oS5rUnfw6D&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 71999,
+      "originalPrice": 84900,
+      "rating": 4.7,
+      "reviews": 30878,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-macbook-air-intel-core-i5-5th-gen-8-gb-128-gb-ssd-mac-os-sierra-mqd32hn-a/p/itm59b02cd96984a?pid=COMEVCPQBXBDFJ8C&lid=LSTCOMEVCPQBXBDFJ8C5XWYJP"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Apple MacBook Air (M5, 2026) M5 - (16 GB/512 GB SSD/Tahoe) MDHE4HN/A",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/718d4Eu7cFL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 133300,
+      "originalPrice": 144900,
+      "rating": 4.2,
+      "reviews": 76,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozOTE1MDU4NTA0OTUxNjAwOjE3ODIzNzg5MDA6c3BfYXRmOjMwMDk3NjY1MjMyMDgzMjo6MDo6&url=%2FApple-2026-MacBook-Laptop-chip%2Fdp%2FB0GR1PZYQ8%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.2GeNO-SKFY35P884NewOfelJjzAnxpwXu335oazD8yvhKFTtclc7I6AJA1CSzzCOf_0niGSeQxvbNuI03NQdLBF9P2ce2wGsRjVfesm0ZBQtJwSBShpnm_-0HcARU2MQwEJ3KJBvalkGqBXpLjh-L45LxpDm3UmjiOcybGYlTL9YgSiTjHYeAEicNxQNRkl-B5q4M0hI-DkWfGWJ81JmqdIX8uQmUjLC9LwzKA0B6-M.-im8AXMciIIqB7AlKboh21OLf8BAvckIOWqwNfX0Q_U%26dib_tag%3Dse%26keywords%3Dmacbook%2Bair%26qid%3D1782378900%26sr%3D8-2-spons%26aref%3DqR1cV3WA0M%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=qR1cV3WA0M&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 108290,
+      "originalPrice": 119900,
+      "rating": 4.7,
+      "reviews": 552,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-macbook-air-m5-2026-m5-16-gb-512-gb-ssd-tahoe-mdhe4hn-a/p/itm8505e2f874525?pid=COMHH78YEUAMB68W&lid=LSTCOMHH78YEUAMB68WGNHGES"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Apple MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Monterey) MLY33HN/A",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61amETli1DL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 63990,
+      "originalPrice": 69900,
+      "rating": 4.8,
+      "reviews": 106,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/Apple-2026-MacBook-Laptop-chip/dp/B0GR6J183B/ref=sr_1_3?dib=eyJ2IjoiMSJ9.2GeNO-SKFY35P884NewOfelJjzAnxpwXu335oazD8yvhKFTtclc7I6AJA1CSzzCOf_0niGSeQxvbNuI03NQdLBF9P2ce2wGsRjVfesm0ZBQtJwSBShpnm_-0HcARU2MQwEJ3KJBvalkGqBXpLjh-L45LxpDm3UmjiOcybGYlTL9YgSiTjHYeAEicNxQNRkl-B5q4M0hI-DkWfGWJ81JmqdIX8uQmUjLC9LwzKA0B6-M.-im8AXMciIIqB7AlKboh21OLf8BAvckIOWqwNfX0Q_U&dib_tag=se&keywords=macbook+air&qid=1782378900&sr=8-3"
+    },
+    "flipkart": {
+      "price": 88990,
+      "originalPrice": 89900,
+      "rating": 4.7,
+      "reviews": 15035,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-macbook-air-m2-8-gb-256-gb-ssd-mac-os-monterey-mly33hn-a/p/itmdc5308fa78421?pid=COMGFB2GMCRXZG85&lid=LSTCOMGFB2GMCRXZG855GPGWQ"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Apple MacBook Air (M5, 2026) M5 - (16 GB/1 TB SSD/Tahoe) MDHJ4HN/A",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71upqrupfYL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 131990,
+      "originalPrice": 139900,
+      "rating": 4.8,
+      "reviews": 279,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/Apple-2026-MacBook-Laptop-chip/dp/B0GR177QCS/ref=sr_1_5?dib=eyJ2IjoiMSJ9.2GeNO-SKFY35P884NewOfelJjzAnxpwXu335oazD8yvhKFTtclc7I6AJA1CSzzCOf_0niGSeQxvbNuI03NQdLBF9P2ce2wGsRjVfesm0ZBQtJwSBShpnm_-0HcARU2MQwEJ3KJBvalkGqBXpLjh-L45LxpDm3UmjiOcybGYlTL9YgSiTjHYeAEicNxQNRkl-B5q4M0hI-DkWfGWJ81JmqdIX8uQmUjLC9LwzKA0B6-M.-im8AXMciIIqB7AlKboh21OLf8BAvckIOWqwNfX0Q_U&dib_tag=se&keywords=macbook+air&qid=1782378900&sr=8-5"
+    },
+    "flipkart": {
+      "price": 131990,
+      "originalPrice": 139900,
+      "rating": 4.7,
+      "reviews": 552,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-macbook-air-m5-2026-m5-16-gb-1-tb-ssd-tahoe-mdhj4hn-a/p/itmb44260ca18723?pid=COMHH78YD4WDTXZH&lid=LSTCOMHH78YD4WDTXZH1IK1GA"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Apple MacBook Air (M5, 2026) M5 - (16 GB/512 GB SSD/Tahoe) MDHH4HN/A",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/718d4Eu7cFL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 133300,
+      "originalPrice": 144900,
+      "rating": 4.2,
+      "reviews": 154,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/Apple-2026-MacBook-Laptop-chip/dp/B0GR1PZYQ8/ref=sr_1_6?dib=eyJ2IjoiMSJ9.2GeNO-SKFY35P884NewOfelJjzAnxpwXu335oazD8yvhKFTtclc7I6AJA1CSzzCOf_0niGSeQxvbNuI03NQdLBF9P2ce2wGsRjVfesm0ZBQtJwSBShpnm_-0HcARU2MQwEJ3KJBvalkGqBXpLjh-L45LxpDm3UmjiOcybGYlTL9YgSiTjHYeAEicNxQNRkl-B5q4M0hI-DkWfGWJ81JmqdIX8uQmUjLC9LwzKA0B6-M.-im8AXMciIIqB7AlKboh21OLf8BAvckIOWqwNfX0Q_U&dib_tag=se&keywords=macbook+air&qid=1782378900&sr=8-6"
+    },
+    "flipkart": {
+      "price": 108300,
+      "originalPrice": 119900,
+      "rating": 4.7,
+      "reviews": 552,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-macbook-air-m5-2026-m5-16-gb-512-gb-ssd-tahoe-mdhh4hn-a/p/itm5a19d35343c46?pid=COMHH78YEMDJZUKW&lid=LSTCOMHH78YEMDJZUKWQHJ8W8"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Apple MacBook Air (M5, 2026) M5 - (16 GB/512 GB SSD/Tahoe) MDH74HN/A",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/718Ori0rXpL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 133300,
+      "originalPrice": 144900,
+      "rating": 5,
+      "reviews": 70,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/Apple-2026-MacBook-Laptop-chip/dp/B0GR1DXY7L/ref=sr_1_7?dib=eyJ2IjoiMSJ9.2GeNO-SKFY35P884NewOfelJjzAnxpwXu335oazD8yvhKFTtclc7I6AJA1CSzzCOf_0niGSeQxvbNuI03NQdLBF9P2ce2wGsRjVfesm0ZBQtJwSBShpnm_-0HcARU2MQwEJ3KJBvalkGqBXpLjh-L45LxpDm3UmjiOcybGYlTL9YgSiTjHYeAEicNxQNRkl-B5q4M0hI-DkWfGWJ81JmqdIX8uQmUjLC9LwzKA0B6-M.-im8AXMciIIqB7AlKboh21OLf8BAvckIOWqwNfX0Q_U&dib_tag=se&keywords=macbook+air&qid=1782378900&sr=8-7"
+    },
+    "flipkart": {
+      "price": 108300,
+      "originalPrice": 119900,
+      "rating": 4.7,
+      "reviews": 552,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/apple-macbook-air-m5-2026-m5-16-gb-512-gb-ssd-tahoe-mdh74hn-a/p/itm7780abdd2be7d?pid=COMHH78Y2WQUBPWE&lid=LSTCOMHH78Y2WQUBPWEGUFZGA"
+    }
+  },
+  {
+    "id": 19,
+    "name": "ASUS Gaming V16 (2025) for Creator with Office 2024 + M365 Basic*, AI PC(i5 14th gen) Intel Core 5 210...",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71wT57gW0hL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 77990,
+      "originalPrice": 81201,
+      "rating": 4.3,
+      "reviews": 432,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozNzE1NzAyNzczMDU0OTAzOjE3ODIzNzg5MDY6c3BfYXRmOjMwMDU4OTIwNTEyMzkzMjo6MDo6&url=%2FHP-Smartchoice-i5-13420H-Upgradeable-Office24%2Fdp%2FB0F6CVT23B%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.UtCXo61Vod2_aE-5zEWvuJBdB5IHczb4R_wfIqCmnLm5Pb9D8L2sMTIFqppdplNE_EDPlAqGegcT2LDUIZQ_UqypNGWSWdJeNjcnz-lksTsSSJh0lm-524N8KEAtBg5UUMl-IQdeBKa29wb1W3svQr9Jgmtiwfhy0ezcFhz0QmVkW32Pl1ysk2jXCzvk3ttrOM9ShOzV1vTvp8Cjh10xXI5zDxlNyKcMh5bYE8Udi-o.EOCA4Kym57fhGQzMWYAAzdP6ZZ-N9Qc1vZQK7lsp0yM%26dib_tag%3Dse%26keywords%3Dgaming%2Blaptop%26qid%3D1782378906%26sr%3D8-1-spons%26aref%3DIrhxgjeeeO%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=IrhxgjeeeO&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 89990,
+      "originalPrice": 125990,
+      "rating": 4.2,
+      "reviews": 32,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/asus-gaming-v16-2025-creator-office-2024-m365-basic-ai-pc-i5-14th-gen-intel-core-5-210h-16-gb-512-gb-ssd-windows-11-home-8-graphics-nvidia-geforce-rtx-5050-144-hz-v3607vh-rp037ws-laptop/p/itm7d7ee6f36f528?pid=COMHDG7CPRBZSMSX&lid=LSTCOMHDG7CPRBZSMSXRFQ2SD"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Lenovo Legion Pro 5 WQXGA OLED Intel Core Ultra 9 275HX - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphic...",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61h78UMEXjL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 421990,
+      "originalPrice": 429900,
+      "rating": 4.3,
+      "reviews": 373,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozNzE1NzAyNzczMDU0OTAzOjE3ODIzNzg5MDY6c3BfYXRmOjMwMTEzNTEwODU3NTIzMjo6MDo6&url=%2FApple-MacBook-Laptop-18%25E2%2580%2591core-32%25E2%2580%2591core%2Fdp%2FB0GR1KBG9Z%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.UtCXo61Vod2_aE-5zEWvuJBdB5IHczb4R_wfIqCmnLm5Pb9D8L2sMTIFqppdplNE_EDPlAqGegcT2LDUIZQ_UqypNGWSWdJeNjcnz-lksTsSSJh0lm-524N8KEAtBg5UUMl-IQdeBKa29wb1W3svQr9Jgmtiwfhy0ezcFhz0QmVkW32Pl1ysk2jXCzvk3ttrOM9ShOzV1vTvp8Cjh10xXI5zDxlNyKcMh5bYE8Udi-o.EOCA4Kym57fhGQzMWYAAzdP6ZZ-N9Qc1vZQK7lsp0yM%26dib_tag%3Dse%26keywords%3Dgaming%2Blaptop%26qid%3D1782378906%26sr%3D8-2-spons%26aref%3D25tZk9kdS5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=25tZk9kdS5&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 253990,
+      "originalPrice": 293890,
+      "rating": 5,
+      "reviews": 5,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/lenovo-legion-pro-5-wqxga-oled-intel-core-ultra-9-275hx-32-gb-1-tb-ssd-windows-11-home-8-gb-graphics-nvidia-geforce-rtx-5070-16iax10-gaming-laptop/p/itm0968b6925c1fe?pid=COMHHDHYSNJ5R7YY&lid=LSTCOMHHDHYSNJ5R7YYN3FELH"
+    }
+  },
+  {
+    "id": 21,
+    "name": "ASUS TUF Gaming A15 (2025) AMD Ryzen 7 Octa Core 7445HS - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphic...",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71EyWp8nvUL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 65990,
+      "originalPrice": 80595.83,
+      "rating": 4,
+      "reviews": 441,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/HP-Upgradeable-Office24-fb3189ax-Backlit/dp/B0FQWH1TT3/ref=sr_1_3?dib=eyJ2IjoiMSJ9.UtCXo61Vod2_aE-5zEWvuJBdB5IHczb4R_wfIqCmnLm5Pb9D8L2sMTIFqppdplNE_EDPlAqGegcT2LDUIZQ_UqypNGWSWdJeNjcnz-lksTsSSJh0lm-524N8KEAtBg5UUMl-IQdeBKa29wb1W3svQr9Jgmtiwfhy0ezcFhz0QmVkW32Pl1ysk2jXCzvk3ttrOM9ShOzV1vTvp8Cjh10xXI5zDxlNyKcMh5bYE8Udi-o.EOCA4Kym57fhGQzMWYAAzdP6ZZ-N9Qc1vZQK7lsp0yM&dib_tag=se&keywords=gaming+laptop&qid=1782378906&sr=8-3"
+    },
+    "flipkart": {
+      "price": 79990,
+      "originalPrice": 87990,
+      "rating": 4.4,
+      "reviews": 4204,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/asus-tuf-gaming-a15-2025-amd-ryzen-7-octa-core-7445hs-16-gb-1-tb-ssd-windows-11-home-4-gb-graphics-nvidia-geforce-rtx-3050-144-hz-fa506ncg-hn249w-laptop/p/itma80161587da66?pid=COMHEDHR94YX4FNR&lid=LSTCOMHEDHR94YX4FNR1WW5TT"
+    }
+  },
+  {
+    "id": 22,
+    "name": "ASUS TUF Gaming A15 (2026) AMD Ryzen 7 170 - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA Ge...",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71K4CpdfmHL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 73990,
+      "originalPrice": 83990,
+      "rating": 4.3,
+      "reviews": 372,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/ASUS-Upgradeable-Keyboard-Graphite-FA506NCG-HN199W/dp/B0FM3C4L2F/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UtCXo61Vod2_aE-5zEWvuJBdB5IHczb4R_wfIqCmnLm5Pb9D8L2sMTIFqppdplNE_EDPlAqGegcT2LDUIZQ_UqypNGWSWdJeNjcnz-lksTsSSJh0lm-524N8KEAtBg5UUMl-IQdeBKa29wb1W3svQr9Jgmtiwfhy0ezcFhz0QmVkW32Pl1ysk2jXCzvk3ttrOM9ShOzV1vTvp8Cjh10xXI5zDxlNyKcMh5bYE8Udi-o.EOCA4Kym57fhGQzMWYAAzdP6ZZ-N9Qc1vZQK7lsp0yM&dib_tag=se&keywords=gaming+laptop&qid=1782378906&sr=8-4"
+    },
+    "flipkart": {
+      "price": 78990,
+      "originalPrice": 84990,
+      "rating": 4.6,
+      "reviews": 36,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/asus-tuf-gaming-a15-2026-amd-ryzen-7-170-16-gb-512-gb-ssd-windows-11-home-4-graphics-nvidia-geforce-rtx-3050-fa506ncq-hn006w-laptop/p/itm2a48b3e7ebd9c?pid=COMHHNH8ZRHTGJ7H&lid=LSTCOMHHNH8ZRHTGJ7H0I7LAZ"
+    }
+  },
+  {
+    "id": 23,
+    "name": "MSI Thin A15 AMD Ryzen 5 Hexa Core 7535HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71kuEUDZ-1L._AC_UY218_.jpg",
+    "amazon": {
+      "price": 69990,
+      "originalPrice": 92990,
+      "rating": 4.2,
+      "reviews": 406,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/MSI-7735HS-Windows-GeForce-B7UC-103IN/dp/B097PM1MBH/ref=sr_1_5?dib=eyJ2IjoiMSJ9.UtCXo61Vod2_aE-5zEWvuJBdB5IHczb4R_wfIqCmnLm5Pb9D8L2sMTIFqppdplNE_EDPlAqGegcT2LDUIZQ_UqypNGWSWdJeNjcnz-lksTsSSJh0lm-524N8KEAtBg5UUMl-IQdeBKa29wb1W3svQr9Jgmtiwfhy0ezcFhz0QmVkW32Pl1ysk2jXCzvk3ttrOM9ShOzV1vTvp8Cjh10xXI5zDxlNyKcMh5bYE8Udi-o.EOCA4Kym57fhGQzMWYAAzdP6ZZ-N9Qc1vZQK7lsp0yM&dib_tag=se&keywords=gaming+laptop&qid=1782378906&sr=8-5"
+    },
+    "flipkart": {
+      "price": 65990,
+      "originalPrice": 78990,
+      "rating": 4.4,
+      "reviews": 356,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/msi-thin-a15-amd-ryzen-5-hexa-core-7535hs-16-gb-512-gb-ssd-windows-11-home-4-graphics-nvidia-geforce-rtx-3050-144-hz-b7uc-284in-b7uc-102in-gaming-laptop/p/itm61400c2ed6802?pid=COMGXMSXNZSJERHE&lid=LSTCOMGXMSXNZSJERHELUC5TJ"
+    }
+  },
+  {
+    "id": 24,
+    "name": "DELL G15 Intel Core i5 13th Gen 13450HX - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61h78UMEXjL._AC_UL320_.jpg",
+    "amazon": {
+      "price": 421990,
+      "originalPrice": 429900,
+      "rating": 4.3,
+      "reviews": 292,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in#"
+    },
+    "flipkart": {
+      "price": 76990,
+      "originalPrice": 93021,
+      "rating": 4.2,
+      "reviews": 900,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/dell-g15-intel-core-i5-13th-gen-13450hx-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-120-hz-5530-gaming-laptop/p/itmd1b02da743465?pid=COMH8EPFG25GDHDC&lid=LSTCOMH8EPFG25GDHDCJE052J"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Noise Force Rugged & Sporty 1.32\" Bluetooth Calling Smart Watch, 550 NITS, 7 Days Battery, AI Voice Assistance, Smart Watch for Men (Misty Grey)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71Ur4Tv1hHL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 2199,
+      "originalPrice": 5999,
+      "rating": 3.9,
+      "reviews": 422,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODQ4NTg5NTAxNjM4MDE6MTc4MjM3ODkxMTpzcF9hdGY6MzAxMTQ4ODc5NzI3NzMyOjowOjo&url=%2FNoiseFit-Bluetooth-Functional-Assistance-Tracker%2Fdp%2FB0BMVRPGH5%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.I2HPN_pa-FIBB4HeUPe3C4gu8woRpXgt-OCz8oJVZXMKvGeTWVzaYwQaCnpkLlot1H_mh7cBEysZGgCtIXWsIKX51o1WExS6HRlqKdhPVFGOgxIPxMDy2A-lhc4rLOHB8YkV15TxWrtHgcvbzzjsUJmlFgdrUmO3tUllU7mHelhyabURcq-JQFQcvlnd22lLRWHOIkLuVJPH7k3Svw2orjv7MrVXVtskK7BYTAXNe1I.hjeYX_TTpg5D-r7jzC_aD9GDm60X_pFthJIyK0ugWHU%26dib_tag%3Dse%26keywords%3Dsmartwatch%26qid%3D1782378911%26sr%3D8-1-spons%26aref%3Dlhydvq4SwJ%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=lhydvq4SwJ&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 999,
+      "originalPrice": 3999,
+      "rating": 4,
+      "reviews": 159,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/cellecor-e5-connect-2-01-ips-hd-display-700-nits-bt-calling-aod-ip67-bt-v5-4-smartwatch/p/itma45c2f5b54f53?pid=SMWH9B9SNDAVZEXZ&lid=LSTSMWH9B9SNDAVZEXZTFPEHU"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Noise Newly Launched Vortex Plus 1.46” AMOLED Display, AoD, BT Calling, Sleek Metal Finish, 7 Days Battery Life, All New OS with 100+ Watch Faces & Health Suite (Space Blue)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61uWyulptZL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 2299,
+      "originalPrice": 6999,
+      "rating": 4,
+      "reviews": 450,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODQ4NTg5NTAxNjM4MDE6MTc4MjM3ODkxMTpzcF9hdGY6MzAwNTM4OTY2NTA3OTMyOjowOjo&url=%2FNoise-Launched-Display-Calling-Battery%2Fdp%2FB0CG1XZJ46%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.I2HPN_pa-FIBB4HeUPe3C4gu8woRpXgt-OCz8oJVZXMKvGeTWVzaYwQaCnpkLlot1H_mh7cBEysZGgCtIXWsIKX51o1WExS6HRlqKdhPVFGOgxIPxMDy2A-lhc4rLOHB8YkV15TxWrtHgcvbzzjsUJmlFgdrUmO3tUllU7mHelhyabURcq-JQFQcvlnd22lLRWHOIkLuVJPH7k3Svw2orjv7MrVXVtskK7BYTAXNe1I.hjeYX_TTpg5D-r7jzC_aD9GDm60X_pFthJIyK0ugWHU%26dib_tag%3Dse%26keywords%3Dsmartwatch%26qid%3D1782378911%26sr%3D8-2-spons%26aref%3Dida8KoOi7Y%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=ida8KoOi7Y&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 890,
+      "originalPrice": 4999,
+      "rating": 4,
+      "reviews": 150,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/melbon-h9-maroon-1-99-amoled-display-bt-calling-ai-voice-music-fitness-smartwatch/p/itm5d70c169b290d?pid=SMWHBQRTC6ZNTCYC&lid=LSTSMWHBQRTC6ZNTCYCGCUF96"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Fastrack Limitless Glide X 1.83\" Smart Watch with Ultra UV HD Display, SpO2, Heart Rate & Sleep Tracking, Bluetooth Calling, 100+ Sports Modes, 5-Day Battery, Smartwatch for Men & Women (Black)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71rNSvzQGlL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 1299,
+      "originalPrice": 2799,
+      "rating": 4,
+      "reviews": 212,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/Fastrack-Limitless-SingleSync-Smartwatch-Assistant/dp/B0D9629NJQ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.I2HPN_pa-FIBB4HeUPe3C4gu8woRpXgt-OCz8oJVZXMKvGeTWVzaYwQaCnpkLlot1H_mh7cBEysZGgCtIXWsIKX51o1WExS6HRlqKdhPVFGOgxIPxMDy2A-lhc4rLOHB8YkV15TxWrtHgcvbzzjsUJmlFgdrUmO3tUllU7mHelhyabURcq-JQFQcvlnd22lLRWHOIkLuVJPH7k3Svw2orjv7MrVXVtskK7BYTAXNe1I.hjeYX_TTpg5D-r7jzC_aD9GDm60X_pFthJIyK0ugWHU&dib_tag=se&keywords=smartwatch&qid=1782378911&sr=8-3"
+    },
+    "flipkart": {
+      "price": 2199,
+      "originalPrice": 3999,
+      "rating": 4,
+      "reviews": 172,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/redmi-watch-move-1-85-premium-amoled-14-day-battery-best-accuracy-dual-core-processor-smartwatch/p/itm013acf097d879?pid=SMWHB4YTRWFHFQGY&lid=LSTSMWHB4YTRWFHFQGY3NTCJH"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Bouncefit D20 Y68 Fitness Band Smart Watch for Men, Women, Boys, Girls, Kids – Single Touch Interface, Water Resistant, Workout Modes, Quick Charge Sports Smartwatch – Jet Black",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/51VZN8HIAFL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 396,
+      "originalPrice": 2999,
+      "rating": 3.4,
+      "reviews": 335,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/Bouncefit-D20-Fitness-Band-Smartwatch/dp/B0BSGXWTGP/ref=sr_1_4?dib=eyJ2IjoiMSJ9.I2HPN_pa-FIBB4HeUPe3C4gu8woRpXgt-OCz8oJVZXMKvGeTWVzaYwQaCnpkLlot1H_mh7cBEysZGgCtIXWsIKX51o1WExS6HRlqKdhPVFGOgxIPxMDy2A-lhc4rLOHB8YkV15TxWrtHgcvbzzjsUJmlFgdrUmO3tUllU7mHelhyabURcq-JQFQcvlnd22lLRWHOIkLuVJPH7k3Svw2orjv7MrVXVtskK7BYTAXNe1I.hjeYX_TTpg5D-r7jzC_aD9GDm60X_pFthJIyK0ugWHU&dib_tag=se&keywords=smartwatch&qid=1782378911&sr=8-4"
+    },
+    "flipkart": {
+      "price": 1499,
+      "originalPrice": 5999,
+      "rating": 4,
+      "reviews": 148,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/noise-colorfit-icon-2-1-8-display-bluetooth-calling-ai-voice-assistant-smartwatch/p/itmd4cd819eadb9f?pid=SMWGEH7VGYMGCP3V&lid=LSTSMWGEH7VGYMGCP3VXIJHDY"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Noise Twist Go 1.39'' Display, Bluetooth Calling, Metal...",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61BoaOUf+KL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 1599,
+      "originalPrice": 4999,
+      "rating": 4,
+      "reviews": 117,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4KTCH1/ref=sr_1_5?dib=eyJ2IjoiMSJ9.I2HPN_pa-FIBB4HeUPe3C4gu8woRpXgt-OCz8oJVZXMKvGeTWVzaYwQaCnpkLlot1H_mh7cBEysZGgCtIXWsIKX51o1WExS6HRlqKdhPVFGOgxIPxMDy2A-lhc4rLOHB8YkV15TxWrtHgcvbzzjsUJmlFgdrUmO3tUllU7mHelhyabURcq-JQFQcvlnd22lLRWHOIkLuVJPH7k3Svw2orjv7MrVXVtskK7BYTAXNe1I.hjeYX_TTpg5D-r7jzC_aD9GDm60X_pFthJIyK0ugWHU&dib_tag=se&keywords=smartwatch&qid=1782378911&sr=8-5"
+    },
+    "flipkart": {
+      "price": 1599,
+      "originalPrice": 4999,
+      "rating": 4,
+      "reviews": 195,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/noise-twist-go-1-39-display-bluetooth-calling-metallic-finish-100-sports-modes-smartwatch/p/itmf9fa3027228f8?pid=SMWH889Z3HH5T2EH&lid=LSTSMWH889Z3HH5T2EHKUMZOJ"
+    }
+  },
+  {
+    "id": 30,
+    "name": "GOBOULT Drift BT Calling HD Display, 140+ Watchface, BT...REDMI Watch Move 1.85 Premium AmoLED,14 Day Battery,Bes...Fire-Boltt Ninja Calling Pro Plus 46.5mm (1.83) Display...Yash Enterprises PulseWave Smart Band Watch T500 T800 M...",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61uQG0ADGIL._AC_UL320_.jpg",
+    "amazon": {
+      "price": 1599,
+      "originalPrice": 6499,
+      "rating": 4.6,
+      "reviews": 41,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in#"
+    },
+    "flipkart": {
+      "price": 1299,
+      "originalPrice": 7999,
+      "rating": 4,
+      "reviews": 87,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/goboult-drift-bt-calling-hd-display-140-watchface-calling-ip68-smartwatch/p/itm44dae90456a3d?pid=SMWGMH4RUBYE7SHF&lid=LSTSMWGMH4RUBYE7SHFJEOYVO"
+    }
+  },
+  {
+    "id": 31,
+    "name": "boAtAirdopes Prime 701 ANC, 46dB Hybrid ANC, 50Hr Battery, Real Spatial Audio,Multidevice Connect,App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Obsidian Black)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71zh+chcf5L._AC_UY218_.jpg",
+    "amazon": {
+      "price": 2199,
+      "originalPrice": 7990,
+      "rating": 3.8,
+      "reviews": 353,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4MTc4NjE1MjIzMDI4NDE2OjE3ODIzNzg5MTg6c3BfYXRmOjMwMDU5OTc4NzQ4OTAzMjo6MDo6&url=%2FboAt-Airdopes-Multidevice-Bluetooth-Earphones%2Fdp%2FB0F8BVYRWS%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.56Z91sreaNX31U1BGgR2XNDzUZLWCngww7rkfW05uYM-8tSzm57RvCSf1tU3XHQLyAxCg5jbX-74IaTK6GByRqGcMdhoRlcUbjGCKZq_wOMGWRI8sq-ozKoEJHQ6jhbu63b8gK0O1mX945QJr7LSdn5xNKIteiwfXXQUwOnr1dsSM9CY9Xe6Rl-ewCtVm2rpcWpMhhXQ6jzbVIGTOiWn2ASe0PBTwturbH2CoLwHZ2c.sx_dMPYY-ScTMKF8mXxM7WgI1SY2jHTNE0N73hxANBM%26dib_tag%3Dse%26keywords%3Dboat%2Bairdopes%26nsdOptOutParam%3Dtrue%26qid%3D1782378918%26sr%3D8-1-spons%26aref%3DZxmuVh0cH8%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=ZxmuVh0cH8&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 1599,
+      "originalPrice": 4999,
+      "rating": 3.7,
+      "reviews": 32972353191581584,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/boat-airdopes-proclip-ows-earbuds-air-conduction-tech-52h-battery-app-support-btv6-0-bluetooth/p/itmff4c9a382c887?pid=ACCHN7ZPTFV2ZACN&lid=LSTACCHN7ZPTFV2ZACNOM8LWE"
+    }
+  },
+  {
+    "id": 32,
+    "name": "boAtAirdopes Joy v2 w/Up to 35H Battery, Pocketable Design, ASAP™ Charge, 13mm Drivers, Easy Touch Controls, ENx™ Tech, Beast™ Mode, IWP™ & App Support TWS Bluetooth Earbuds with mic (Eclipse Black)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61ha05nY0kL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 1099,
+      "originalPrice": 3490,
+      "rating": 3.9,
+      "reviews": 66,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4MTc4NjE1MjIzMDI4NDE2OjE3ODIzNzg5MTg6c3BfYXRmOjMwMTE0ODE4MjIyNDYzMjo6MDo6&url=%2FAirdopes-Battery-Pocketable-Controls-Bluetooth%2Fdp%2FB0GZMYP6Y6%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.56Z91sreaNX31U1BGgR2XNDzUZLWCngww7rkfW05uYM-8tSzm57RvCSf1tU3XHQLyAxCg5jbX-74IaTK6GByRqGcMdhoRlcUbjGCKZq_wOMGWRI8sq-ozKoEJHQ6jhbu63b8gK0O1mX945QJr7LSdn5xNKIteiwfXXQUwOnr1dsSM9CY9Xe6Rl-ewCtVm2rpcWpMhhXQ6jzbVIGTOiWn2ASe0PBTwturbH2CoLwHZ2c.sx_dMPYY-ScTMKF8mXxM7WgI1SY2jHTNE0N73hxANBM%26dib_tag%3Dse%26keywords%3Dboat%2Bairdopes%26nsdOptOutParam%3Dtrue%26qid%3D1782378918%26sr%3D8-2-spons%26aref%3D9848Fjylsl%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=9848Fjylsl&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 999,
+      "originalPrice": 3990,
+      "rating": 4.1,
+      "reviews": 279418759319181,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/boat-airdopes-219-40h-battery-free-music-streaming-best-segment-calling-bluetooth/p/itm6492423f46c95?pid=ACCHCJW3JXTHN4HH&lid=LSTACCHCJW3JXTHN4HHZBQUVH"
+    }
+  },
+  {
+    "id": 33,
+    "name": "boAt Airdopes 219, 40H Battery, Free Music Streaming & ...",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71FOccCOQmL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 999,
+      "originalPrice": 3990,
+      "rating": 3.9,
+      "reviews": 132,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/boAt-Airdopes-Bluetooth-Wireless-Earphones/dp/B0FC2Y3XGV/ref=sr_1_3?dib=eyJ2IjoiMSJ9.56Z91sreaNX31U1BGgR2XNDzUZLWCngww7rkfW05uYM-8tSzm57RvCSf1tU3XHQLyAxCg5jbX-74IaTK6GByRqGcMdhoRlcUbjGCKZq_wOMGWRI8sq-ozKoEJHQ6jhbu63b8gK0O1mX945QJr7LSdn5xNKIteiwfXXQUwOnr1dsSM9CY9Xe6Rl-ewCtVm2rpcWpMhhXQ6jzbVIGTOiWn2ASe0PBTwturbH2CoLwHZ2c.sx_dMPYY-ScTMKF8mXxM7WgI1SY2jHTNE0N73hxANBM&dib_tag=se&keywords=boat+airdopes&nsdOptOutParam=true&qid=1782378918&sr=8-3"
+    },
+    "flipkart": {
+      "price": 999,
+      "originalPrice": 3990,
+      "rating": 4.1,
+      "reviews": 27941,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/boat-airdopes-219-40h-battery-free-music-streaming-best-segment-calling-bluetooth/p/itm6492423f46c95?pid=ACCHCJW3JXTHN4HH&lid=LSTACCHCJW3JXTHN4HHZBQUVH"
+    }
+  },
+  {
+    "id": 34,
+    "name": "boAtAirdopes Joy, 35Hrs Battery, Fast Charge, IWP Tech, Low Latency, 2Mic ENx, Type-C Port, v5.3 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic(Dark Cyan)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/51nEYJB7nyL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 1099,
+      "originalPrice": 3490,
+      "rating": 3.8,
+      "reviews": 147,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/boAt-Airdopes-Alpha-Wireless-Earbuds/dp/B0C411BWXD/ref=sr_1_4?dib=eyJ2IjoiMSJ9.56Z91sreaNX31U1BGgR2XNDzUZLWCngww7rkfW05uYM-8tSzm57RvCSf1tU3XHQLyAxCg5jbX-74IaTK6GByRqGcMdhoRlcUbjGCKZq_wOMGWRI8sq-ozKoEJHQ6jhbu63b8gK0O1mX945QJr7LSdn5xNKIteiwfXXQUwOnr1dsSM9CY9Xe6Rl-ewCtVm2rpcWpMhhXQ6jzbVIGTOiWn2ASe0PBTwturbH2CoLwHZ2c.sx_dMPYY-ScTMKF8mXxM7WgI1SY2jHTNE0N73hxANBM&dib_tag=se&keywords=boat+airdopes&nsdOptOutParam=true&qid=1782378918&sr=8-4"
+    },
+    "flipkart": {
+      "price": 1099,
+      "originalPrice": 2490,
+      "rating": 4,
+      "reviews": 1.5815833718162087e+21,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/boat-airdopes-161-163-asap-charge-40-h-battery-stream-ad-free-music-via-app-support-bluetooth/p/itmc0f2e3d5135d0?pid=ACCGTGACXTQM9N4Z&lid=LSTACCGTGACXTQM9N4ZWVJYEA"
+    }
+  },
+  {
+    "id": 35,
+    "name": "boAtAirdopes 141 Gen 2, 4 Mics ENx Tech, 48 Hrs Playback, Free Music Streaming, Fast Charge, Low Latency, IPX4, v5.4 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Active Black)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71O+4zDSk-L._AC_UY218_.jpg",
+    "amazon": {
+      "price": 999,
+      "originalPrice": 3990,
+      "rating": 3.9,
+      "reviews": 205,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/boAt-Airdopes-141-Streaming-Bluetooth/dp/B0F8BVSK21/ref=sr_1_5?dib=eyJ2IjoiMSJ9.56Z91sreaNX31U1BGgR2XNDzUZLWCngww7rkfW05uYM-8tSzm57RvCSf1tU3XHQLyAxCg5jbX-74IaTK6GByRqGcMdhoRlcUbjGCKZq_wOMGWRI8sq-ozKoEJHQ6jhbu63b8gK0O1mX945QJr7LSdn5xNKIteiwfXXQUwOnr1dsSM9CY9Xe6Rl-ewCtVm2rpcWpMhhXQ6jzbVIGTOiWn2ASe0PBTwturbH2CoLwHZ2c.sx_dMPYY-ScTMKF8mXxM7WgI1SY2jHTNE0N73hxANBM&dib_tag=se&keywords=boat+airdopes&nsdOptOutParam=true&qid=1782378918&sr=8-5"
+    },
+    "flipkart": {
+      "price": 1199,
+      "originalPrice": 4490,
+      "rating": 4.1,
+      "reviews": 87591216208621980,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/boat-airdopes-prime-413-ai-enx-tech-50h-battery-multi-connect-app-support-beast-mode-bluetooth/p/itm55c768a01fbe8?pid=ACCHEYBVMHMUZCTC&lid=LSTACCHEYBVMHMUZCTCMTSAXB"
+    }
+  },
+  {
+    "id": 36,
+    "name": "boAtAirdopes 800, Dolby Audio, Adaptive EQ by Mimi, 4Mics AI ENx, App Support, Fast Charge, IPX5, v5.3 Bluetooth TWS in Ear Earbuds Wireless Earphones with mic (Interstellar White)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/81zvngriIOL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 1699,
+      "originalPrice": 6490,
+      "rating": 4.1,
+      "reviews": 94,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/boAt-Airdopes-800-Detection-Interstellar/dp/B0D1V8CKFQ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.56Z91sreaNX31U1BGgR2XNDzUZLWCngww7rkfW05uYM-8tSzm57RvCSf1tU3XHQLyAxCg5jbX-74IaTK6GByRqGcMdhoRlcUbjGCKZq_wOMGWRI8sq-ozKoEJHQ6jhbu63b8gK0O1mX945QJr7LSdn5xNKIteiwfXXQUwOnr1dsSM9CY9Xe6Rl-ewCtVm2rpcWpMhhXQ6jzbVIGTOiWn2ASe0PBTwturbH2CoLwHZ2c.sx_dMPYY-ScTMKF8mXxM7WgI1SY2jHTNE0N73hxANBM&dib_tag=se&keywords=boat+airdopes&nsdOptOutParam=true&qid=1782378918&sr=8-6"
+    },
+    "flipkart": {
+      "price": 1099,
+      "originalPrice": 3990,
+      "rating": 4,
+      "reviews": 382737182972329700,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/boat-airdopes-plus-311-50h-battery-enx-tech-50ms-beast-mode-asap-charge-bt-v5-3-bluetooth/p/itm1fcd824daf0b7?pid=ACCHG64RJ8TZ8HVC&lid=LSTACCHG64RJ8TZ8HVCESGVEG"
+    }
+  },
+  {
+    "id": 37,
+    "name": "JBLTune 520BT Wireless On Ear Headphones with Mic, Upto 57H Battery, Speed Charge : 5 Min Charge Gives Up to 3H of Playback, Multipoint Connect, Customizable Bass with Headphones App, BT 5.3 (Black)",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61R9ECIaDyL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 2999,
+      "originalPrice": 4999,
+      "rating": 4,
+      "reviews": 308,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3Mjc0NDg2Nzc5NzYxNzU5OjE3ODIzNzg5MjM6c3BfYXRmOjMwMDQ1NjUxODYxMzQzMjo6MDo6&url=%2FJBL-Headphones-Speedcharge-Customizable-Lightweight%2Fdp%2FB0C3V5X3QT%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.A2kPY0OJcqjQ9N5sMB05VK_nM9r_Yqll5KKw-jr2Kx3ZbAYCHr2fC9KwhtCoTXQn_q8ZVl5iQsc3fnZDQev3_2Dsg93XB2UjXaD-Ke0qJShTvEXi17qFYNkJE4mJnSJ06J4FNlraGxDr1EV9EASGPzsCRxEmQyj2JDj7m5hDTALe9ynoT8hN44cwySDoaCtSlMFTfx75oLjoevLbWj7vTThgubW_UspMIeidq2AdvGo.hvm_fvrCTAM_ylLkjrkV6H_1GSq6knsMAyhUAIlByQM%26dib_tag%3Dse%26keywords%3Dsony%2Bheadphones%26nsdOptOutParam%3Dtrue%26qid%3D1782378923%26sr%3D8-1-spons%26aref%3DkvAz1jgfCl%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=kvAz1jgfCl&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 417,
+      "originalPrice": 3999,
+      "rating": 3.8,
+      "reviews": 2512655,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/rokavo-punchy-bass-bluetooth-wireless-headphones-mic-waterproof-clear-calls-nr3-bluetooth/p/itm748acb8b0fe9b?pid=ACCH96FPTVMGFY7G&lid=LSTACCH96FPTVMGFY7GELXYAB"
+    }
+  },
+  {
+    "id": 38,
+    "name": "JBLLive 770NC Wireless Over Ear Headphones with True Adaptive Noise Cancelling, Smart Ambient, Spatial Sound, Multipoint Connect, PersoniFi 2.0, Customized EQ, Google Fast Pair, BT 5.3 Black",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/812p44DERdL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 10999,
+      "originalPrice": 14999,
+      "rating": 4.3,
+      "reviews": 369,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3Mjc0NDg2Nzc5NzYxNzU5OjE3ODIzNzg5MjM6c3BfYXRmOjMwMDM0NzUzNjEwNDYzMjo6MDo6&url=%2FJBL-Cancellation-Headphones-Multipoint-Personi-Fi%2Fdp%2FB0CHMN4KVN%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.A2kPY0OJcqjQ9N5sMB05VK_nM9r_Yqll5KKw-jr2Kx3ZbAYCHr2fC9KwhtCoTXQn_q8ZVl5iQsc3fnZDQev3_2Dsg93XB2UjXaD-Ke0qJShTvEXi17qFYNkJE4mJnSJ06J4FNlraGxDr1EV9EASGPzsCRxEmQyj2JDj7m5hDTALe9ynoT8hN44cwySDoaCtSlMFTfx75oLjoevLbWj7vTThgubW_UspMIeidq2AdvGo.hvm_fvrCTAM_ylLkjrkV6H_1GSq6knsMAyhUAIlByQM%26dib_tag%3Dse%26keywords%3Dsony%2Bheadphones%26nsdOptOutParam%3Dtrue%26qid%3D1782378923%26sr%3D8-2-spons%26aref%3D4EFQFrNZXt%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=4EFQFrNZXt&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 4490,
+      "originalPrice": 9990,
+      "rating": 3.6,
+      "reviews": 1353518746716,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/sony-inzone-h3-mdr-g300-360-spatial-sound-flip-mute-mic-gaming-wired/p/itm1207c9d9549b1?pid=ACCGG25E95CKQGUP&lid=LSTACCGG25E95CKQGUPVBZZYF"
+    }
+  },
+  {
+    "id": 39,
+    "name": "SONY WH-CH520 BluetoothSONY WH-CH720N BluetoothBose ‎QuietComfort Headphones BluetoothJABRA Evolve2 65 Link390a MS Wireless Headset with Mic ...",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/41lArSiD5hL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 3996,
+      "originalPrice": 5990,
+      "rating": 4.2,
+      "reviews": 61,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/Sony-Bluetooth-Headphones-Multipoint-Connectivity/dp/B0BS1PRC4L/ref=sr_1_3?dib=eyJ2IjoiMSJ9.A2kPY0OJcqjQ9N5sMB05VK_nM9r_Yqll5KKw-jr2Kx3ZbAYCHr2fC9KwhtCoTXQn_q8ZVl5iQsc3fnZDQev3_2Dsg93XB2UjXaD-Ke0qJShTvEXi17qFYNkJE4mJnSJ06J4FNlraGxDr1EV9EASGPzsCRxEmQyj2JDj7m5hDTALe9ynoT8hN44cwySDoaCtSlMFTfx75oLjoevLbWj7vTThgubW_UspMIeidq2AdvGo.hvm_fvrCTAM_ylLkjrkV6H_1GSq6knsMAyhUAIlByQM&dib_tag=se&keywords=sony+headphones&nsdOptOutParam=true&qid=1782378923&sr=8-3"
+    },
+    "flipkart": {
+      "price": 4490,
+      "originalPrice": 5990,
+      "rating": 4.3,
+      "reviews": 134034759139,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/sony-wh-ch520-bluetooth/p/itm3d1fdc7a05899?pid=ACCHBPMEU8EZ8HEH&lid=LSTACCHBPMEU8EZ8HEHDEQBCT"
+    }
+  },
+  {
+    "id": 40,
+    "name": "SonyWH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones with Mic, Adaptive Sound Control, Quick Charge, Up to 35Hrs Battery, Customized EQ- Black",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/51rpbVmi9XL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 9828,
+      "originalPrice": 14990,
+      "rating": 4.3,
+      "reviews": 359,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/Sony-Cancellation-Headphones-Multi-Point-Connection/dp/B0BS1QCFHX/ref=sr_1_4?dib=eyJ2IjoiMSJ9.A2kPY0OJcqjQ9N5sMB05VK_nM9r_Yqll5KKw-jr2Kx3ZbAYCHr2fC9KwhtCoTXQn_q8ZVl5iQsc3fnZDQev3_2Dsg93XB2UjXaD-Ke0qJShTvEXi17qFYNkJE4mJnSJ06J4FNlraGxDr1EV9EASGPzsCRxEmQyj2JDj7m5hDTALe9ynoT8hN44cwySDoaCtSlMFTfx75oLjoevLbWj7vTThgubW_UspMIeidq2AdvGo.hvm_fvrCTAM_ylLkjrkV6H_1GSq6knsMAyhUAIlByQM&dib_tag=se&keywords=sony+headphones&nsdOptOutParam=true&qid=1782378923&sr=8-4"
+    },
+    "flipkart": {
+      "price": 4490,
+      "originalPrice": 5990,
+      "rating": 4.3,
+      "reviews": 134034759274875,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/sony-wh-ch520-cz-bluetooth/p/itm29e4c2b8a0883?pid=ACCGZ4MAHVHUTGDU&lid=LSTACCGZ4MAHVHUTGDUAUVQPZ"
+    }
+  },
+  {
+    "id": 41,
+    "name": "SONY ZX110A Wired without Mic",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/41BoLKMYjnL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 549,
+      "originalPrice": 1390,
+      "rating": 4,
+      "reviews": 225,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/Sony-MDR-ZX110A-Stereo-Headphones-without/dp/B00KGZZ824/ref=sr_1_5?dib=eyJ2IjoiMSJ9.A2kPY0OJcqjQ9N5sMB05VK_nM9r_Yqll5KKw-jr2Kx3ZbAYCHr2fC9KwhtCoTXQn_q8ZVl5iQsc3fnZDQev3_2Dsg93XB2UjXaD-Ke0qJShTvEXi17qFYNkJE4mJnSJ06J4FNlraGxDr1EV9EASGPzsCRxEmQyj2JDj7m5hDTALe9ynoT8hN44cwySDoaCtSlMFTfx75oLjoevLbWj7vTThgubW_UspMIeidq2AdvGo.hvm_fvrCTAM_ylLkjrkV6H_1GSq6knsMAyhUAIlByQM&dib_tag=se&keywords=sony+headphones&nsdOptOutParam=true&qid=1782378923&sr=8-5"
+    },
+    "flipkart": {
+      "price": 549,
+      "originalPrice": 1390,
+      "rating": 4.1,
+      "reviews": 187467,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/sony-zx110a-wired-without-mic/p/itmbf3d44e8847dd?pid=ACCDZRSEYPFHAT76&lid=LSTACCDZRSEYPFHAT76H6ZRJB"
+    }
+  },
+  {
+    "id": 42,
+    "name": "SONY MDR-ZX310AP, 30mm Driver and Foldable Design Wired",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/51QTyJ107KL._AC_UY218_.jpg",
+    "amazon": {
+      "price": 899,
+      "originalPrice": 2190,
+      "rating": 4.1,
+      "reviews": 61,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/Sony-MDR-ZX310AP-Headband-Stereo-Headset/dp/B0784BMDRW/ref=sr_1_6?dib=eyJ2IjoiMSJ9.A2kPY0OJcqjQ9N5sMB05VK_nM9r_Yqll5KKw-jr2Kx3ZbAYCHr2fC9KwhtCoTXQn_q8ZVl5iQsc3fnZDQev3_2Dsg93XB2UjXaD-Ke0qJShTvEXi17qFYNkJE4mJnSJ06J4FNlraGxDr1EV9EASGPzsCRxEmQyj2JDj7m5hDTALe9ynoT8hN44cwySDoaCtSlMFTfx75oLjoevLbWj7vTThgubW_UspMIeidq2AdvGo.hvm_fvrCTAM_ylLkjrkV6H_1GSq6knsMAyhUAIlByQM&dib_tag=se&keywords=sony+headphones&nsdOptOutParam=true&qid=1782378923&sr=8-6"
+    },
+    "flipkart": {
+      "price": 899,
+      "originalPrice": 2190,
+      "rating": 4.2,
+      "reviews": 274875,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/sony-mdr-zx310ap-30mm-driver-foldable-design-wired/p/itmfb1e61496b58e?pid=ACCDQZAUQJUJ7CAG&lid=LSTACCDQZAUQJUJ7CAG5A5T9S"
+    }
+  },
+  {
+    "id": 43,
+    "name": "CROCS Unisex Adult Literide In Motion Clogs Sandal",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/717XgIzBP4L._AC_UL320_.jpg",
+    "amazon": {
+      "price": 3897,
+      "originalPrice": 5995,
+      "rating": 4.1,
+      "reviews": 317,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MjY3NTk2NTE4Njc2OTYwOjE3ODIzNzg5MzE6c3BfYXRmOjMwMDQ5NzUyOTY0NjkzMjo6MDo6&url=%2Fcrocs-Unisex-Adult-Classic-207521-2Y2%2Fdp%2FB09GGZQ44G%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.S0HE7zs-teWlm7I05Y1x64K7l3D53QCyn1_SAgHDFtBRRMms1_CWSvhur-8TQ-hR6Ll7t-2GVwSj-rZwcFz4BdpUuce2-wqRVHjcDczQCWT-KCojrKxZltRrYNWsMqDp-TWL8Jh8GvfybHE4Ey_g-kEJIgBndzU4hn9L_xnGZ74m96rOt7gMWzoX3lcKrNZ4uDnimfq0SAqSYg-a2dJiP9Pk42-A9B2f3PhmEwDgU4rhd_2F6vwF0LYmhDcsdHv4sO2wh4Nv9n3mUIcSgSHNhcYSc_Y6GryjOxO7RZV3jRY.Rjt9Y_H-eXm1BhHdIe2oDJb_t3ALJOq2S2fbEyBQz1k%26dib_tag%3Dse%26keywords%3Dcrocs%2Bclogs%26nsdOptOutParam%3Dtrue%26qid%3D1782378931%26sr%3D8-1-spons%26aref%3DHHUWYEKhOq%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=HHUWYEKhOq&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 7495,
+      "originalPrice": 7495,
+      "rating": 4,
+      "reviews": 182,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/crocs-adult-literide-motion-unisex-clogs/p/itm1e257ca80dec8?pid=SNDH6YX5DV3ENNSH&lid=LSTSNDH6YX5DV3ENNSHW3RPPI"
+    }
+  },
+  {
+    "id": 44,
+    "name": "CROCS Unisex Classic Clogs Sandal",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61QZ2dRO1sL._AC_UL320_.jpg",
+    "amazon": {
+      "price": 2599,
+      "originalPrice": 4495,
+      "rating": 4.6,
+      "reviews": 386,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MjY3NTk2NTE4Njc2OTYwOjE3ODIzNzg5MzE6c3BfYXRmOjMwMDMyMDgwODQ3MDgzMjo6MDo6&url=%2FCrocs-Unisex-Adult-Walking-Classic-Brown%2Fdp%2FB0CQR8S8Q1%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.S0HE7zs-teWlm7I05Y1x64K7l3D53QCyn1_SAgHDFtBRRMms1_CWSvhur-8TQ-hR6Ll7t-2GVwSj-rZwcFz4BdpUuce2-wqRVHjcDczQCWT-KCojrKxZltRrYNWsMqDp-TWL8Jh8GvfybHE4Ey_g-kEJIgBndzU4hn9L_xnGZ74m96rOt7gMWzoX3lcKrNZ4uDnimfq0SAqSYg-a2dJiP9Pk42-A9B2f3PhmEwDgU4rhd_2F6vwF0LYmhDcsdHv4sO2wh4Nv9n3mUIcSgSHNhcYSc_Y6GryjOxO7RZV3jRY.Rjt9Y_H-eXm1BhHdIe2oDJb_t3ALJOq2S2fbEyBQz1k%26dib_tag%3Dse%26keywords%3Dcrocs%2Bclogs%26nsdOptOutParam%3Dtrue%26qid%3D1782378931%26sr%3D8-2-spons%26aref%3DMIsjt6oSvB%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=MIsjt6oSvB&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 2997,
+      "originalPrice": 4995,
+      "rating": 4,
+      "reviews": 62,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/crocs-classic-unisex-clogs/p/itm42380e476c0f2?pid=SNDGGSJGWGATUKJN&lid=LSTSNDGGSJGWGATUKJNE6UHJX"
+    }
+  },
+  {
+    "id": 45,
+    "name": "CROCS Unisex Clogs Sandal",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/713lzw7r11L._AC_UL320_.jpg",
+    "amazon": {
+      "price": 7495,
+      "originalPrice": 7495,
+      "rating": 4,
+      "reviews": 228,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MjY3NTk2NTE4Njc2OTYwOjE3ODIzNzg5MzE6c3BfYXRmOjMwMDQ5NzUyOTY0MjYzMjo6MDo6&url=%2FCrocs-Unisex-Adult-208454-1NL-Moonlight%2Fdp%2FB0CNJ1XSR1%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.S0HE7zs-teWlm7I05Y1x64K7l3D53QCyn1_SAgHDFtBRRMms1_CWSvhur-8TQ-hR6Ll7t-2GVwSj-rZwcFz4BdpUuce2-wqRVHjcDczQCWT-KCojrKxZltRrYNWsMqDp-TWL8Jh8GvfybHE4Ey_g-kEJIgBndzU4hn9L_xnGZ74m96rOt7gMWzoX3lcKrNZ4uDnimfq0SAqSYg-a2dJiP9Pk42-A9B2f3PhmEwDgU4rhd_2F6vwF0LYmhDcsdHv4sO2wh4Nv9n3mUIcSgSHNhcYSc_Y6GryjOxO7RZV3jRY.Rjt9Y_H-eXm1BhHdIe2oDJb_t3ALJOq2S2fbEyBQz1k%26dib_tag%3Dse%26keywords%3Dcrocs%2Bclogs%26nsdOptOutParam%3Dtrue%26qid%3D1782378931%26sr%3D8-3-spons%26aref%3D0fwqZDlR1z%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=0fwqZDlR1z&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 3496,
+      "originalPrice": 4995,
+      "rating": 4,
+      "reviews": 260,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/crocs-unisex-clogs/p/itmf3fe026126fb4?pid=SNDH9JFSAGRA3FUY&lid=LSTSNDH9JFSAGRA3FUYKKEGT3"
+    }
+  },
+  {
+    "id": 46,
+    "name": "BoldfitSneakers for Men Casual Stylish Sneakers for Man with Premium PU Leather Upper, Cushioned Insole, Padded Collar, Breathable Lining & TPR Grip Sole Everyday Wear Shoes for Men Klunys",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61aviqCzqFL._AC_UL320_.jpg",
+    "amazon": {
+      "price": 1609,
+      "originalPrice": 3999,
+      "rating": 3.9,
+      "reviews": 66,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2NDg5Mjk1ODE2NjY1NDYwOjE3ODIzNzg5NDA6c3BfYXRmOjMwMTAzNjQxMDUxNDIzMjo6MDo6&url=%2FBoldfit-Sneakers-Men-Casual-Breathable%2Fdp%2FB0GFX5MLRS%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.purHLVN1Y-mihFg_Xk34xzAzweHashGpbpoR02xkRxYX1jXhf61asWH-5baixss4A8AwFn_caq03yxW98f1bv6BfexJIy0W2yg6OJ8m6-tUU6Wb07zyB_nGzFjPr-ILZnt3lvGmfVVPO7i8O0Pe8w7q_Vl-gVae8ZT91hhnTm7HjbpWjr3TzrCG7uVspddBVvdgBPx2w_DZdRIYvQHB2PZZmfNR5EeTP3rAA3foRmDCHqhVprbU4ThMzseQXKZO2WHiDs7hqmkIHTeT5bdLft5qBRaLMhB2EhLmE0gER9I8.4zRpMoXSgEw-_mwFMYr83KGLjgUnblBPQhWGQJwPnXY%26dib_tag%3Dse%26keywords%3Dsneakers%26qid%3D1782378940%26sr%3D8-1-spons%26aref%3DLbzoU4mxa6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=LbzoU4mxa6&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 417,
+      "originalPrice": 999,
+      "rating": 4,
+      "reviews": 264,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/layasa-colorblock-flat-ultra-soft-cushion-shoes-women-sneakers/p/itm573fb13d87eec?pid=SHOHBNSUAGNVCVGG&lid=LSTSHOHBNSUAGNVCVGGIODQJI"
+    }
+  },
+  {
+    "id": 47,
+    "name": "asian Sneaker Casual Shoes For Men | Soft Cushion Insole || B...",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/61-dZrQZ2cL._AC_UL320_.jpg",
+    "amazon": {
+      "price": 1499,
+      "originalPrice": 4499,
+      "rating": 4.4,
+      "reviews": 203,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2NDg5Mjk1ODE2NjY1NDYwOjE3ODIzNzg5NDA6c3BfYXRmOjMwMDg4NzM0NTUwNTIzMjo6MDo6&url=%2FBoldfit-Sneakers-Lightweight-Comfortable-Cushion%2Fdp%2FB0G5286LSW%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.purHLVN1Y-mihFg_Xk34xzAzweHashGpbpoR02xkRxYX1jXhf61asWH-5baixss4A8AwFn_caq03yxW98f1bv6BfexJIy0W2yg6OJ8m6-tUU6Wb07zyB_nGzFjPr-ILZnt3lvGmfVVPO7i8O0Pe8w7q_Vl-gVae8ZT91hhnTm7HjbpWjr3TzrCG7uVspddBVvdgBPx2w_DZdRIYvQHB2PZZmfNR5EeTP3rAA3foRmDCHqhVprbU4ThMzseQXKZO2WHiDs7hqmkIHTeT5bdLft5qBRaLMhB2EhLmE0gER9I8.4zRpMoXSgEw-_mwFMYr83KGLjgUnblBPQhWGQJwPnXY%26dib_tag%3Dse%26keywords%3Dsneakers%26qid%3D1782378940%26sr%3D8-2-spons%26aref%3DYu0NK1M59h%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Yu0NK1M59h&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 745,
+      "originalPrice": 1499,
+      "rating": 4,
+      "reviews": 178,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/asian-sneaker-casual-shoes-men-soft-cushion-insole-boston-01-sneakers/p/itm0b955fe258b74?pid=SHOGXKTKRVSVS3RH&lid=LSTSHOGXKTKRVSVS3RHAVNJQN"
+    }
+  },
+  {
+    "id": 48,
+    "name": "RIZTA Black Stylish Casual Shoes Sneakers For Men",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/51DZP83wBFL._AC_UL320_.jpg",
+    "amazon": {
+      "price": 1109,
+      "originalPrice": 2799,
+      "rating": 4,
+      "reviews": 370,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2NDg5Mjk1ODE2NjY1NDYwOjE3ODIzNzg5NDA6c3BfYXRmOjMwMDU3NTU2MDc3NTEzMjo6MDo6&url=%2FBoldfit-Sneakers-Lightweight-Comfortable-Whitegreen%2Fdp%2FB0F949DXCB%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.purHLVN1Y-mihFg_Xk34xzAzweHashGpbpoR02xkRxYX1jXhf61asWH-5baixss4A8AwFn_caq03yxW98f1bv6BfexJIy0W2yg6OJ8m6-tUU6Wb07zyB_nGzFjPr-ILZnt3lvGmfVVPO7i8O0Pe8w7q_Vl-gVae8ZT91hhnTm7HjbpWjr3TzrCG7uVspddBVvdgBPx2w_DZdRIYvQHB2PZZmfNR5EeTP3rAA3foRmDCHqhVprbU4ThMzseQXKZO2WHiDs7hqmkIHTeT5bdLft5qBRaLMhB2EhLmE0gER9I8.4zRpMoXSgEw-_mwFMYr83KGLjgUnblBPQhWGQJwPnXY%26dib_tag%3Dse%26keywords%3Dsneakers%26qid%3D1782378940%26sr%3D8-3-spons%26aref%3DfpU4DlwZiU%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=fpU4DlwZiU&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 270,
+      "originalPrice": 999,
+      "rating": 4,
+      "reviews": 140,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/rizta-black-stylish-casual-shoes-sneakers-men/p/itm484b3783f2108?pid=SHOHNUGA4XDYBPHM&lid=LSTSHOHNUGA4XDYBPHMGHFZJ7"
+    }
+  },
+  {
+    "id": 49,
+    "name": "The Souled StoreVelocity: Men and Boys Low Top Sneakers | Racing-Inspired Trainer with Breathable Mesh, Cushioned EVA Midsole & Durable Outsole",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/513wM5eZWFL._AC_UL320_.jpg",
+    "amazon": {
+      "price": 2599,
+      "originalPrice": 4299,
+      "rating": 4.2,
+      "reviews": 309,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2NDg5Mjk1ODE2NjY1NDYwOjE3ODIzNzg5NDA6c3BfYXRmOjMwMTE0MzQ1NDQ4OTMzMjo6MDo6&url=%2FSouled-Store-Velocity-Black-Sneakers%2Fdp%2FB0FFGN2RNC%2Fref%3Dsr_1_4_sspa%3Fdib%3DeyJ2IjoiMSJ9.purHLVN1Y-mihFg_Xk34xzAzweHashGpbpoR02xkRxYX1jXhf61asWH-5baixss4A8AwFn_caq03yxW98f1bv6BfexJIy0W2yg6OJ8m6-tUU6Wb07zyB_nGzFjPr-ILZnt3lvGmfVVPO7i8O0Pe8w7q_Vl-gVae8ZT91hhnTm7HjbpWjr3TzrCG7uVspddBVvdgBPx2w_DZdRIYvQHB2PZZmfNR5EeTP3rAA3foRmDCHqhVprbU4ThMzseQXKZO2WHiDs7hqmkIHTeT5bdLft5qBRaLMhB2EhLmE0gER9I8.4zRpMoXSgEw-_mwFMYr83KGLjgUnblBPQhWGQJwPnXY%26dib_tag%3Dse%26keywords%3Dsneakers%26qid%3D1782378940%26sr%3D8-4-spons%26aref%3DeEfEdhTE1g%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=eEfEdhTE1g&sp_cr=ZAZ"
+    },
+    "flipkart": {
+      "price": 354,
+      "originalPrice": 1999,
+      "rating": 4,
+      "reviews": 274,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/aadi-sneakers-men/p/itmfbbd674083772?pid=SHOGMKFZUPUEJUAW&lid=LSTSHOGMKFZUPUEJUAW7GLOQQ"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Phil Alden RobinsonSneakers",
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/81OjGIMBzRL._AC_UL320_.jpg",
+    "amazon": {
+      "price": 99,
+      "originalPrice": 99,
+      "rating": 4.5,
+      "reviews": 32,
+      "delivery": "Free delivery by Amazon",
+      "link": "https://www.amazon.in/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.28a9f69d-8b95-c60a-ee74-3873a6dd0c4c%26ref_%3Ddvm_src_ret_in_xx_s&page-type-id=B0CKZKKFT1&ref=sr_1_5&keywords=sneakers&dib_tag=se&dib=eyJ2IjoiMSJ9.purHLVN1Y-mihFg_Xk34xzAzweHashGpbpoR02xkRxYX1jXhf61asWH-5baixss4A8AwFn_caq03yxW98f1bv6BfexJIy0W2yg6OJ8m6-tUU6Wb07zyB_nGzFjPr-ILZnt3lvGmfVVPO7i8O0Pe8w7q_Vl-gVae8ZT91hhnTm7HjbpWjr3TzrCG7uVspddBVvdgBPx2w_DZdRIYvQHB2PZZmfNR5EeTP3rAA3foRmDCHqhVprbU4ThMzseQXKZO2WHiDs7hqmkIHTeT5bdLft5qBRaLMhB2EhLmE0gER9I8.4zRpMoXSgEw-_mwFMYr83KGLjgUnblBPQhWGQJwPnXY&qid=1782378940&sr=8-5"
+    },
+    "flipkart": {
+      "price": 387,
+      "originalPrice": 1999,
+      "rating": 4,
+      "reviews": 88,
+      "delivery": "Free delivery in 2-3 days",
+      "link": "https://www.flipkart.com/echor-casual-white-sneakers-men/p/itmda763be74b8e8?pid=SHOHBZJVSNGBG6H5&lid=LSTSHOHBZJVSNGBG6H5QLWFFC"
+    }
+  }
+]

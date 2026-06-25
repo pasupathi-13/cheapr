@@ -2,11 +2,12 @@ import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import ProductCard from '../components/ProductCard';
+import { useWishlist } from '../context/WishlistContext';
 import './Wishlist.css';
 
 const Wishlist = () => {
-  // Mock wishlist items
-  const wishlistItems = [];
+  const { items: wishlistItems } = useWishlist();
 
   return (
     <>
@@ -26,7 +27,9 @@ const Wishlist = () => {
             </div>
           ) : (
             <div className="wishlist-grid">
-              {/* Wishlist items will render here */}
+              {wishlistItems.map((product) => (
+                <ProductCard key={product.id} product={product} />
+              ))}
             </div>
           )}
         </div>

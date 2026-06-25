@@ -4,8 +4,9 @@ import PropTypes from 'prop-types';
 import { FaShoppingCart, FaHeart, FaUser, FaHome, FaGlobe, FaInfoCircle, FaEnvelope } from 'react-icons/fa';
 import { HiMenu, HiX } from 'react-icons/hi';
 import translations from '../translations';
+import { useCart } from '../context/CartContext';
+import { useWishlist } from '../context/WishlistContext';
 import './Navbar.css';
-import { MdDownload } from 'react-icons/md';
 
 const Navbar = ({ showSearch = true }) => {
   const [query, setQuery] = useState('');
@@ -18,10 +19,13 @@ const Navbar = ({ showSearch = true }) => {
 
   const t = translations[selectedLang] || translations.en;
 
-  // Mock counts
+  // Context counts
   const [user, setUser] = useState(null);
-  const [cartCount, setCartCount] = useState(3);
-  const [wishlistCount, setWishlistCount] = useState(2);
+  const { getTotalItems } = useCart();
+  const { items: wishlistItems } = useWishlist();
+  
+  const cartCount = getTotalItems();
+  const wishlistCount = wishlistItems.length;
 
   const languages = [
     { code: 'en', label: 'English', flag: '🇬🇧' },

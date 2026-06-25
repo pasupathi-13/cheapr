@@ -2,11 +2,12 @@ import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import { useCart } from '../context/CartContext';
+import { formatPrice } from '../utils/helpers';
 import './Cart.css';
 
 const Cart = () => {
-  // Mock cart items (replace with real data later)
-  const cartItems = [];
+  const { items: cartItems, removeItem, updateQuantity, getTotalPrice } = useCart();
 
   return (
     <>
@@ -26,12 +27,40 @@ const Cart = () => {
             </div>
           ) : (
             <div className="cart-items">
+              <div className="cart-items-layout">
+                {cartItems.map((item) => (
+                  <div key={item.id} className="cart-item-card">
+                    <img src={item.image} alt={item.name} className="cart-item-img" />
+                    <div className="cart-item-details">
+                      <h3 className="cart-item-name">{item.name}</h3>
+                      <div className="cart-item-meta">
+                        <span className="cart-item-platform">Lowest: {item.platform}</span>
+                        <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ fontSize: '0.8rem', color: 'var(--primary)' }}>
+                          View Listing →
+                        </a>
+                      </div>
+                    </div>
+                    <div className="cart-item-price-quantity">
+                      <span className="cart-item-price">{formatPrice(item.price * item.quantity)}</span>
+                      <div className="quantity-controls">
+                        <button className="quantity-btn" onClick={() => updateQuantity(item.id, item.quantity - 1)}>-</button>
+                        <span className="quantity-val">{item.quantity}</span>
+                        <button className="quantity-btn" onClick={() => updateQuantity(item.id, item.quantity + 1)}>+</button>
+                      </div>
+                      <button className="cart-item-remove" onClick={() => removeItem(item.id)}>Remove</button>
+                    </div>
+                  </div>
+                ))}
+              </div>
+
               <div className="cart-summary">
                 <div className="cart-total">
                   <span>Total:</span>
-                  <span>₹0</span>
+                  <span>{formatPrice(getTotalPrice())}</span>
                 </div>
-                <button className="checkout-btn">Proceed to Checkout</button>
+                <button className="checkout-btn" onClick={() => alert('Proceeding to checkout with lowest compared prices!')}>
+                  Proceed to Checkout
+                </button>
               </div>
             </div>
           )}

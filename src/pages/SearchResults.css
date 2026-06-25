@@ -24,11 +24,109 @@
   .results-grid-items { grid-template-columns: 1fr; }
 }
 /* Add to existing */
-.results-loading {
-  text-align: center;
-  padding: 80px 16px;
-  font-size: 1.2rem;
-  color: var(--text-gray);
+.results-loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 120px 16px;
+  max-width: 400px;
+  margin: 0 auto;
+  position: relative;
+  min-height: 50vh;
+}
+
+.orbit-spinner {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
+.orbit-center {
+  font-size: 2.2rem;
+  z-index: 10;
+  animation: pulse-zoom 1.5s infinite ease-in-out;
+}
+
+.orbit {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 3.5px solid transparent;
+}
+
+.orbit-amazon {
+  border-top-color: #ff9900;
+  border-right-color: #ff9900;
+  animation: spin-clockwise 1.2s linear infinite;
+}
+
+.orbit-flipkart {
+  border-bottom-color: var(--primary);
+  border-left-color: var(--primary);
+  width: 80%;
+  height: 80%;
+  top: 10%;
+  left: 10%;
+  animation: spin-counter-clockwise 1.5s linear infinite;
+}
+
+.loading-status-pill {
+  background: var(--primary-light);
+  color: var(--primary);
+  border: 1px solid var(--border);
+  padding: 8px 24px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  animation: pulse-fade 1.8s infinite ease-in-out;
+  box-shadow: 0 4px 12px rgba(40,116,240,0.1);
+  letter-spacing: 0.5px;
+}
+
+.scanner-line {
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--primary), #ff9900, transparent);
+  animation: scan-vertical 2s infinite ease-in-out;
+  opacity: 0.35;
+  top: 50%;
+}
+
+@keyframes spin-clockwise {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes spin-counter-clockwise {
+  0% { transform: rotate(360deg); }
+  100% { transform: rotate(0deg); }
+}
+
+@keyframes pulse-zoom {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.15); }
+}
+
+@keyframes pulse-fade {
+  0%, 100% { opacity: 0.75; transform: translateY(0); }
+  50% { opacity: 1; transform: translateY(-2px); }
+}
+
+@keyframes scan-vertical {
+  0% { top: 20%; opacity: 0; }
+  25% { opacity: 0.4; }
+  50% { top: 80%; opacity: 0.4; }
+  75% { opacity: 0.4; }
+  100% { top: 20%; opacity: 0; }
 }
 
 .empty-btn {
