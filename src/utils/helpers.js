@@ -28,3 +28,5 @@ export const generateStableId = (product) => {
   }
   return 'prod_' + Math.abs(hash).toString(36);
 };
+
+export const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';

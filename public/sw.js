@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cheapr-v2';
+const CACHE_NAME = 'cheapr-v3';
 const urlsToCache = [
   '/',
   '/home',
@@ -19,6 +19,7 @@ self.addEventListener('activate', (event) => {
       return Promise.all(
         cacheNames.map((cacheName) => {
           if (cacheName !== CACHE_NAME) {
+            console.log('[SW] Clearing old cache:', cacheName);
             return caches.delete(cacheName);
           }
         })
@@ -28,6 +29,25 @@ self.addEventListener('activate', (event) => {
 });
 
 self.addEventListener('fetch', (event) => {
+  // Use Network-First strategy for page navigation to prevent stale index.html cache issues
+  if (event.request.mode === 'navigate') {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then((cache) => {
+            cache.put(event.request, copy);
+          });
+          return response;
+        })
+        .catch(() => {
+          return caches.match(event.request);
+        })
+    );
+    return;
+  }
+
+  // Use Cache-First strategy for static assets
   event.respondWith(
     caches.match(event.request).then((response) => {
       return response || fetch(event.request);

@@ -3,7 +3,7 @@ import { useParams, useNavigate, useLocation } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
 import Navbar from '../components/Navbar';
 import PriceBadge from '../components/PriceBadge';
-import { formatPrice, getDiscount, isLowest } from '../utils/helpers';
+import { formatPrice, getDiscount, isLowest, API_URL } from '../utils/helpers';
 import { useCart } from '../context/CartContext';
 import { useWishlist } from '../context/WishlistContext';
 import './Compare.css';
@@ -41,7 +41,7 @@ const Compare = () => {
     const amazonUrl = product.amazon.link || '';
     const flipkartUrl = product.flipkart.link || '';
 
-    fetch(`http://localhost:5000/api/product?amazonUrl=${encodeURIComponent(amazonUrl)}&flipkartUrl=${encodeURIComponent(flipkartUrl)}`)
+    fetch(`${API_URL}/api/product?amazonUrl=${encodeURIComponent(amazonUrl)}&flipkartUrl=${encodeURIComponent(flipkartUrl)}`)
       .then(res => {
         if (!res.ok) throw new Error('Failed to load images');
         return res.json();

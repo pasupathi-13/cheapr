@@ -3,7 +3,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
 import Navbar from '../components/Navbar';
 import ProductCard from '../components/ProductCard';
-import { generateStableId } from '../utils/helpers';
+import { generateStableId, API_URL } from '../utils/helpers';
 import './SearchResults.css';
 
 const SearchResults = () => {
@@ -23,7 +23,7 @@ const SearchResults = () => {
     setLoading(true);
     setError(null);
 
-    fetch(`http://localhost:5000/api/search?q=${encodeURIComponent(query)}`)
+    fetch(`${API_URL}/api/search?q=${encodeURIComponent(query)}`)
       .then((res) => {
         if (!res.ok) {
           throw new Error('API server returned error');

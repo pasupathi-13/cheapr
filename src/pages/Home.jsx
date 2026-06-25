@@ -8,7 +8,7 @@ import Footer from '../components/Footer';
 import ImageCarousel from '../components/ImageCarousel';
 import { carouselSlides } from '../data/configData';
 import translations from '../translations';
-import { generateStableId } from '../utils/helpers';
+import { generateStableId, API_URL } from '../utils/helpers';
 import './Home.css';
 
 const Home = () => {
@@ -19,7 +19,7 @@ const Home = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/trending')
+    fetch(`${API_URL}/api/trending`)
       .then((res) => {
         if (!res.ok) throw new Error('API offline');
         return res.json();
