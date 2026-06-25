@@ -52,10 +52,12 @@ function getSystemChromePath() {
 async function launchBrowser() {
   const systemChrome = getSystemChromePath();
   const launchOptions = {
-    headless: true,
+    headless: 'new',
     args: [
       '--no-sandbox',
       '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage',
+      '--disable-gpu',
       '--disable-blink-features=AutomationControlled',
       '--window-size=1920,1080'
     ]
