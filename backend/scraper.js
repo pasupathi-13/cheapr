@@ -12,6 +12,26 @@ puppeteer.use(StealthPlugin());
  * real Chrome has clean hardware signatures that bypass Akamai/reCAPTCHA
  */
 function getSystemChromePath() {
+  // Check for Puppeteer Docker environment variable first
+  if (process.env.PUPPETEER_EXECUTABLE_PATH) {
+    return process.env.PUPPETEER_EXECUTABLE_PATH;
+  }
+
+  // Check Linux paths if on a non-Windows platform
+  if (process.platform !== 'win32') {
+    const linuxPaths = [
+      '/usr/bin/google-chrome-stable',
+      '/usr/bin/google-chrome',
+      '/usr/bin/chromium',
+      '/usr/bin/chromium-browser'
+    ];
+    for (const path of linuxPaths) {
+      if (fs.existsSync(path)) {
+        return path;
+      }
+    }
+  }
+
   const chromePaths = [
     'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
     'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
