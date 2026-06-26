@@ -58,6 +58,8 @@ async function launchBrowser() {
       '--disable-setuid-sandbox',
       '--disable-dev-shm-usage',
       '--disable-gpu',
+      '--no-zygote',
+      '--disable-features=site-per-process',
       '--disable-blink-features=AutomationControlled',
       '--window-size=1920,1080'
     ]
@@ -74,7 +76,14 @@ async function launchBrowser() {
 }
 
 let sharedBrowser = null;
+let browserIdleTimeout = null;
+
 async function getSharedBrowser() {
+  if (browserIdleTimeout) {
+    clearTimeout(browserIdleTimeout);
+    browserIdleTimeout = null;
+  }
+
   if (sharedBrowser) {
     try {
       await sharedBrowser.version();
@@ -86,6 +95,25 @@ async function getSharedBrowser() {
   }
   sharedBrowser = await launchBrowser();
   return sharedBrowser;
+}
+
+function releaseSharedBrowser() {
+  if (browserIdleTimeout) {
+    clearTimeout(browserIdleTimeout);
+  }
+  
+  browserIdleTimeout = setTimeout(async () => {
+    if (sharedBrowser) {
+      console.log(`[Scraper] Closing idle browser to reclaim memory...`);
+      try {
+        await sharedBrowser.close();
+      } catch (e) {
+        console.warn(`[Scraper] Failed to close idle browser:`, e.message);
+      }
+      sharedBrowser = null;
+      browserIdleTimeout = null;
+    }
+  }, 120000); // 2 minutes (120000 ms)
 }
 
 /**
@@ -362,12 +390,12 @@ async function scrapeFlipkartSearch(query) {
  */
 async function searchAndCompare(query, amazonAffiliateTag = '') {
   console.log(`[Scraper] Starting parallel search for: "${query}"`);
-  
-  const browser = await getSharedBrowser();
-  let amazonProducts = [];
-  let flipkartProducts = [];
-
   try {
+    const browser = await getSharedBrowser();
+    let amazonProducts = [];
+    let flipkartProducts = [];
+
+    try {
     // Run scrapes concurrently inside the SAME browser instance (opens two tabs)
     // This halves memory use and cuts loading delay by ~40%
     const [amzResult, fkResult] = await Promise.all([
@@ -500,7 +528,10 @@ async function searchAndCompare(query, amazonAffiliateTag = '') {
     return 0;
   });
 
-  return comparedList;
+    return comparedList;
+  } finally {
+    releaseSharedBrowser();
+  }
 }
 
 /**
@@ -508,11 +539,12 @@ async function searchAndCompare(query, amazonAffiliateTag = '') {
  */
 async function scrapeProductDetails(amazonUrl, flipkartUrl) {
   console.log(`[Scraper] On-demand detail scrape starting...`);
-  const browser = await getSharedBrowser();
-  const amazonImages = [];
-  const flipkartImages = [];
-
   try {
+    const browser = await getSharedBrowser();
+    const amazonImages = [];
+    const flipkartImages = [];
+
+    try {
     const promises = [];
 
     if (amazonUrl && amazonUrl !== '#' && amazonUrl.startsWith('http')) {
@@ -631,11 +663,14 @@ async function scrapeProductDetails(amazonUrl, flipkartUrl) {
 
   // Combine Amazon and Flipkart images, remove duplicates, limit to 8 images
   const allImages = [...new Set([...amazonImages, ...flipkartImages])].slice(0, 8);
-  return {
-    images: allImages,
-    amazonImages,
-    flipkartImages
-  };
+    return {
+      images: allImages,
+      amazonImages,
+      flipkartImages
+    };
+  } finally {
+    releaseSharedBrowser();
+  }
 }
 
 module.exports = {
